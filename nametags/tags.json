@@ -8,18 +8,18 @@
     "outlineColor": "#ff0000",
     "font": "GothamBold",
     "pfpImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/10650684936/pfp_1787396035855_212a2ee1d6dc5ea23885670b1de81a9b.jpg",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787428922626_bf3676d6107b8953decfb33ad16ebf9b_sprite.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787431052085_From_Klickpin.com-_Snack_Board_Ideas_Inspiration_for_Holiday-pin-id-703124560606489638_sprite.png",
     "brandImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/10650684936/brand_1787396037514_212a2ee1d6dc5ea23885670b1de81a9b.jpg",
     "outlineGradient": true,
     "typewriterText": true,
     "glitchText": true,
     "backgroundSprite": {
-      "frames": 45,
-      "frameWidth": 146,
-      "frameHeight": 29,
-      "cols": 7,
-      "rows": 7,
-      "fps": 33.33333333333333
+      "frames": 42,
+      "frameWidth": 325,
+      "frameHeight": 73,
+      "cols": 3,
+      "rows": 14,
+      "fps": 7.636363636363637
     }
   },
   {
