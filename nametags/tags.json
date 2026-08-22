@@ -9,7 +9,10 @@
     "font": "GothamBold",
     "pfpImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/10650684936/pfp_1787396035855_212a2ee1d6dc5ea23885670b1de81a9b.jpg",
     "backgroundImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/10650684936/background_1787414382692_bf3676d6107b8953decfb33ad16ebf9b.gif",
-    "brandImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/10650684936/brand_1787396037514_212a2ee1d6dc5ea23885670b1de81a9b.jpg"
+    "brandImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/10650684936/brand_1787396037514_212a2ee1d6dc5ea23885670b1de81a9b.jpg",
+    "outlineGradient": true,
+    "typewriterText": true,
+    "glitchText": true
   },
   {
     "userId": "9306062616",
