@@ -8,7 +8,7 @@
     "outlineColor": "#ff0000",
     "font": "GothamBold",
     "pfpImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/10650684936/pfp_1787396035855_212a2ee1d6dc5ea23885670b1de81a9b.jpg",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787422353230_bf3676d6107b8953decfb33ad16ebf9b_sprite.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10012699579%2Fbackground_1787426672707_Biscuit_background_sprite.png",
     "brandImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/10650684936/brand_1787396037514_212a2ee1d6dc5ea23885670b1de81a9b.jpg",
     "outlineGradient": true,
     "typewriterText": true,
@@ -33,5 +33,36 @@
     "pfpImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/9306062616/pfp_1787398798506_ptofile_pc.png",
     "backgroundImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/9306062616/background_1787398800398_bc_uni_corn.png",
     "brandImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/9306062616/brand_1787398802330_ptofile_pc.png"
+  },
+  {
+    "userId": "10012699579",
+    "displayName": "Delusional",
+    "username": "@kzkwrizz",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#000000",
+    "outlineGradient": true,
+    "typewriterText": true,
+    "glitchText": true,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10012699579%2Fpfp_1787426671243_Biscuit_crown.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10012699579%2Fbackground_1787426672707_Biscuit_background_sprite.png",
+    "brandImage": "",
+    "brandSprite": {
+      "frames": 75,
+      "frameWidth": 86,
+      "frameHeight": 86,
+      "cols": 9,
+      "rows": 9,
+      "fps": 14.285714285714286
+    },
+    "backgroundSprite": {
+      "frames": 75,
+      "frameWidth": 113,
+      "frameHeight": 22,
+      "cols": 9,
+      "rows": 9,
+      "fps": 14.285714285714286
+    }
   }
 ]
