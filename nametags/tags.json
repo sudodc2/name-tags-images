@@ -95,5 +95,29 @@
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10565812383%2Fpfp_1787435840487_astro_p.png",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10565812383%2Fbackground_1787435840756_astro_b.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10565812383%2Fbrand_1787435841169_astro_p.png"
+  },
+  {
+    "userId": "new_1787436526339",
+    "displayName": "Buggy",
+    "username": "@Fluxo_alT1",
+    "textColor": "#b37a00",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#2e123b",
+    "outlineGradient": true,
+    "typewriterText": false,
+    "glitchText": true,
+    "pfpImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fnew_1787436526339%2Fbackground_1787437646246_xb96qFmromu7_sprite.png",
+    "brandImage": "",
+    "backgroundSprite": {
+      "frames": 15,
+      "frameWidth": 512,
+      "frameHeight": 115,
+      "cols": 2,
+      "rows": 8,
+      "fps": 10,
+      "duration": 1.5
+    }
   }
 ]
