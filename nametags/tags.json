@@ -47,15 +47,7 @@
     "glitchText": true,
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10012699579%2Fpfp_1787426671243_Biscuit_crown.png",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10012699579%2Fbackground_1787432114392_Biscuit_background_sprite.png",
-    "brandImage": "",
-    "brandSprite": {
-      "frames": 75,
-      "frameWidth": 86,
-      "frameHeight": 86,
-      "cols": 9,
-      "rows": 9,
-      "fps": 14.285714285714286
-    },
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10012699579%2Fbrand_1787436517724_Biscuit_crown.png",
     "backgroundSprite": {
       "frames": 42,
       "frameWidth": 325,
