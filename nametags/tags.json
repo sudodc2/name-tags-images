@@ -342,7 +342,7 @@
     "textColor": "#ffffff",
     "font": "GothamBold",
     "tagColor": "#000000",
-    "outlineColor": "#78c882",
+    "outlineColor": "#ffffff",
     "outlineGradient": true,
     "typewriterText": true,
     "glitchText": true,
