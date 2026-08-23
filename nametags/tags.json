@@ -252,5 +252,21 @@
     "pfpImage": "",
     "backgroundImage": "",
     "brandImage": ""
+  },
+  {
+    "userId": "11327783634",
+    "displayName": "IMMORTAL",
+    "username": "@60wxz",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#ff9500",
+    "outlineGradient": true,
+    "typewriterText": false,
+    "glitchText": true,
+    "tagWidth": 340,
+    "pfpImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11327783634%2Fbackground_1787503694793_ichigo2.jpg",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11327783634%2Fbrand_1787503695238_ichigo2.jpg"
   }
 ]
