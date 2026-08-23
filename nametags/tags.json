@@ -176,7 +176,7 @@
   {
     "userId": "1439184810",
     "displayName": "Sleepy",
-    "username": "ㅤ",
+    "username": "",
     "textColor": "#000000",
     "font": "Fantasy",
     "tagColor": "#ffffff",
@@ -185,7 +185,7 @@
     "typewriterText": false,
     "glitchText": true,
     "tagWidth": 120,
-    "pfpImage": "",
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9306062616%2Fpfp_1787451309423_Pink_Unicorn.png",
     "backgroundImage": "",
     "brandImage": ""
   }
