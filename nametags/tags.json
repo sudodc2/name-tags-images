@@ -182,9 +182,9 @@
     "tagColor": "#ffffff",
     "outlineColor": "#ffffff",
     "outlineGradient": true,
-    "typewriterText": true,
+    "typewriterText": false,
     "glitchText": true,
-    "tagWidth": 320,
+    "tagWidth": 180,
     "pfpImage": "",
     "backgroundImage": "",
     "brandImage": ""
