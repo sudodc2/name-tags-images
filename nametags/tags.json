@@ -145,5 +145,30 @@
       "fps": 25,
       "duration": 0.32
     }
+  },
+  {
+    "userId": "10766660977",
+    "displayName": "I WANNA EAT YOUR ASS",
+    "username": "@yourscoperr",
+    "textColor": "#ff0000",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#000000",
+    "outlineGradient": true,
+    "typewriterText": false,
+    "glitchText": true,
+    "tagWidth": 350,
+    "pfpImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10766660977%2Fbackground_1787444317033_ai_army_sprite.png",
+    "brandImage": "",
+    "backgroundSprite": {
+      "frames": 42,
+      "frameWidth": 325,
+      "frameHeight": 73,
+      "cols": 3,
+      "rows": 14,
+      "fps": 25,
+      "duration": 1.68
+    }
   }
 ]
