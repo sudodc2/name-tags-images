@@ -318,5 +318,21 @@
       "fps": 10,
       "duration": 4.2
     }
+  },
+  {
+    "userId": "11249558049",
+    "displayName": "Ghost",
+    "username": "@GhostifyyXDD",
+    "textColor": "#00fffb",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#0011ff",
+    "outlineGradient": true,
+    "typewriterText": false,
+    "glitchText": true,
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11249558049%2Fpfp_1787508261690_gengar__1_-removebg-preview.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11249558049%2Fbackground_1787508262094_F7DCED63-29A3-4E5E-9D0F-B98B253CB873.jpg",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11249558049%2Fbrand_1787508262328_gengar__1_-removebg-preview.png"
   }
 ]
