@@ -9,7 +9,7 @@
     "font": "GothamBold",
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fpfp_1787448638265_lilies.jpg",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787448639599_download_sprite.png",
-    "brandImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/10650684936/brand_1787396037514_212a2ee1d6dc5ea23885670b1de81a9b.jpg",
+    "brandImage": "",
     "outlineGradient": true,
     "typewriterText": true,
     "glitchText": true,
