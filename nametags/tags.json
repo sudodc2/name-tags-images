@@ -1,21 +1,5 @@
 [
   {
-    "userId": "1439184810",
-    "displayName": "SleepyRXX",
-    "username": "SleepyRXX",
-    "textColor": "#ffffff",
-    "tagColor": "#000000",
-    "outlineColor": "#000000",
-    "font": "Fantasy",
-    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9306062616%2Fpfp_1787451309423_Pink_Unicorn.png",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787448639599_download_sprite.png",
-    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10985949885%2Fbrand_1787456211341_rose.jpg",
-    "outlineGradient": true,
-    "typewriterText": false,
-    "glitchText": true,
-    "tagWidth": 170
-  },
-  {
     "userId": "9306062616",
     "displayName": "Unicorn Man  ‎",
     "username": "@Unicorn Man",
@@ -188,5 +172,21 @@
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fpfp_1787451749082_212a2ee1d6dc5ea23885670b1de81a9b.jpg",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787451749306_349bb06b8fcb1a453ac382b09d7d72b0.jpg",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbrand_1787451749482_212a2ee1d6dc5ea23885670b1de81a9b.jpg"
+  },
+  {
+    "userId": "1439184810",
+    "displayName": "New User",
+    "username": "@newuser",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#78c882",
+    "outlineGradient": true,
+    "typewriterText": true,
+    "glitchText": true,
+    "tagWidth": 320,
+    "pfpImage": "",
+    "backgroundImage": "",
+    "brandImage": ""
   }
 ]
