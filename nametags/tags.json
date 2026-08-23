@@ -334,5 +334,30 @@
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11249558049%2Fpfp_1787508261690_gengar__1_-removebg-preview.png",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11249558049%2Fbackground_1787508262094_F7DCED63-29A3-4E5E-9D0F-B98B253CB873.jpg",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11249558049%2Fbrand_1787508262328_gengar__1_-removebg-preview.png"
+  },
+  {
+    "userId": "11511789516",
+    "displayName": "Notleon",
+    "username": "@Johnporkisdsgoat",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#78c882",
+    "outlineGradient": true,
+    "typewriterText": true,
+    "glitchText": true,
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11511789516%2Fpfp_1787514532851_download_22.jpg",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11511789516%2Fbackground_1787514533039_c643da89-13bf-4dd7-8fc4-7a639a3ac629_sprite.png",
+    "brandImage": "",
+    "backgroundSprite": {
+      "frames": 37,
+      "frameWidth": 341,
+      "frameHeight": 76,
+      "cols": 3,
+      "rows": 13,
+      "fps": 17.703349282296653,
+      "duration": 2.09
+    }
   }
 ]
