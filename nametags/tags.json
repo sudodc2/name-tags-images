@@ -7,22 +7,13 @@
     "tagColor": "#000000",
     "outlineColor": "#000000",
     "font": "Fantasy",
-    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fpfp_1787448638265_lilies.jpg",
+    "pfpImage": "",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787448639599_download_sprite.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10985949885%2Fbrand_1787456211341_rose.jpg",
     "outlineGradient": true,
-    "typewriterText": true,
+    "typewriterText": false,
     "glitchText": true,
-    "backgroundSprite": {
-      "frames": 42,
-      "frameWidth": 325,
-      "frameHeight": 73,
-      "cols": 3,
-      "rows": 14,
-      "fps": 10,
-      "duration": 4.2
-    },
-    "tagWidth": 320
+    "tagWidth": 170
   },
   {
     "userId": "9306062616",
