@@ -176,7 +176,7 @@
   {
     "userId": "1439184810",
     "displayName": " Sleepy",
-    "username": "",
+    "username": "ㅤ",
     "textColor": "#000000",
     "font": "GothamBold",
     "tagColor": "#ffffff",
@@ -184,7 +184,7 @@
     "outlineGradient": true,
     "typewriterText": false,
     "glitchText": true,
-    "tagWidth": 140,
+    "tagWidth": 120,
     "pfpImage": "",
     "backgroundImage": "",
     "brandImage": ""
