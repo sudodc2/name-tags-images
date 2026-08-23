@@ -9,7 +9,7 @@
     "font": "GothamBold",
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fpfp_1787448638265_lilies.jpg",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787448639599_download_sprite.png",
-    "brandImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/10650684936/brand_1787396037514_212a2ee1d6dc5ea23885670b1de81a9b.jpg",
+    "brandImage": "",
     "outlineGradient": true,
     "typewriterText": true,
     "glitchText": true,
@@ -32,13 +32,9 @@
     "font": "GothamBold",
     "tagColor": "#000000",
     "outlineColor": "#fb13ae",
-    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9306062616%2Fpfp_1787451309423_Pink_Unicorn.png",
+    "pfpImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/9306062616/pfp_1787398798506_ptofile_pc.png",
     "backgroundImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/9306062616/background_1787398800398_bc_uni_corn.png",
-    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9306062616%2Fbrand_1787451310249_Pink_Unicorn.png",
-    "outlineGradient": true,
-    "typewriterText": true,
-    "glitchText": true,
-    "tagWidth": 340
+    "brandImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/9306062616/brand_1787398802330_ptofile_pc.png"
   },
   {
     "userId": "10012699579",
@@ -185,5 +181,21 @@
       "fps": 25,
       "duration": 4.84
     }
+  },
+  {
+    "userId": "10650684936",
+    "displayName": "I GUESS IM IN LOVE",
+    "username": "@MelodyCrafterAlt",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#ff0000",
+    "outlineGradient": true,
+    "typewriterText": true,
+    "glitchText": true,
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fpfp_1787451749082_212a2ee1d6dc5ea23885670b1de81a9b.jpg",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787451749306_349bb06b8fcb1a453ac382b09d7d72b0.jpg",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbrand_1787451749482_212a2ee1d6dc5ea23885670b1de81a9b.jpg"
   }
 ]
