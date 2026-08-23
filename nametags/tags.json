@@ -135,27 +135,33 @@
     "typewriterText": false,
     "glitchText": true,
     "tagWidth": 480,
-    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10766660977%2Fpfp_1787446657386_discord_avatar_decoration_animated_1787446639755_sprite.png",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10766660977%2Fbackground_1787446210383_giphy_sprite.png",
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10766660977%2Fpfp_1787523392028_david-laid-david-laid-flex_sprite.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10766660977%2Fbackground_1787523393410_zyzz-uptempo_sprite.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10766660977%2Fbrand_1787447031107_c60a0ed6914e3b87cb14662cadf89719.webp",
     "backgroundSprite": {
-      "frames": 31,
-      "frameWidth": 341,
-      "frameHeight": 76,
+      "frames": 42,
+      "frameWidth": 325,
+      "frameHeight": 73,
       "cols": 3,
-      "rows": 11,
-      "fps": 12.5,
-      "duration": 2.48
+      "rows": 14,
+      "fps": 10,
+      "duration": 4.2
     },
     "pfpSprite": {
-      "frames": 121,
-      "frameWidth": 93,
-      "frameHeight": 93,
-      "cols": 11,
-      "rows": 11,
-      "fps": 25,
-      "duration": 4.84
-    }
+      "frames": 44,
+      "frameWidth": 146,
+      "frameHeight": 146,
+      "cols": 7,
+      "rows": 7,
+      "fps": 10,
+      "duration": 4.4
+    },
+    "glowEnabled": true,
+    "glowColor": "#78c882",
+    "textGradient": true,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90
   },
   {
     "userId": "10650684936",
