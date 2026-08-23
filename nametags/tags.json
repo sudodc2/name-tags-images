@@ -188,5 +188,21 @@
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9306062616%2Fpfp_1787451309423_Pink_Unicorn.png",
     "backgroundImage": "",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9306062616%2Fbrand_1787451310249_Pink_Unicorn.png"
+  },
+  {
+    "userId": "3562761605",
+    "displayName": "Rainbow Raze",
+    "username": "@newuser",
+    "textColor": "#000000",
+    "font": "GothamBold",
+    "tagColor": "#ffffff",
+    "outlineColor": "#ffffff",
+    "outlineGradient": true,
+    "typewriterText": true,
+    "glitchText": true,
+    "tagWidth": 320,
+    "pfpImage": "",
+    "backgroundImage": "",
+    "brandImage": ""
   }
 ]
