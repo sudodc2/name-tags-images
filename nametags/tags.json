@@ -159,7 +159,7 @@
     "typewriterText": false,
     "glitchText": true,
     "tagWidth": 480,
-    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10766660977%2Fpfp_1787446267333_c60a0ed6914e3b87cb14662cadf89719.webp",
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10766660977%2Fpfp_1787446657386_discord_avatar_decoration_animated_1787446639755_sprite.png",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10766660977%2Fbackground_1787446210383_giphy_sprite.png",
     "brandImage": "",
     "backgroundSprite": {
@@ -170,6 +170,15 @@
       "rows": 11,
       "fps": 12.5,
       "duration": 2.48
+    },
+    "pfpSprite": {
+      "frames": 121,
+      "frameWidth": 93,
+      "frameHeight": 93,
+      "cols": 11,
+      "rows": 11,
+      "fps": 25,
+      "duration": 4.84
     }
   }
 ]
