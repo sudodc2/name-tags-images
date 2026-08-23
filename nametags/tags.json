@@ -220,5 +220,21 @@
     "pfpImage": "",
     "backgroundImage": "",
     "brandImage": ""
+  },
+  {
+    "userId": "3735090405",
+    "displayName": "Otuka Touchy Time",
+    "username": "@newuser",
+    "textColor": "#ffffff",
+    "font": "SourceSansBold",
+    "tagColor": "#550c0c",
+    "outlineColor": "#ff0000",
+    "outlineGradient": false,
+    "typewriterText": true,
+    "glitchText": true,
+    "tagWidth": 320,
+    "pfpImage": "",
+    "backgroundImage": "",
+    "brandImage": ""
   }
 ]
