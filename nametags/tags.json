@@ -293,5 +293,30 @@
     "pfpImage": "",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11367265345%2Fbackground_1787504395364_IMG_6295.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11367265345%2Fbrand_1787505239729_IMG_6295.png"
+  },
+  {
+    "userId": "10985949885",
+    "displayName": "Attempt",
+    "username": "@loveattemptt",
+    "textColor": "#8f3d3d",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#f00000",
+    "outlineGradient": true,
+    "typewriterText": false,
+    "glitchText": true,
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10985949885%2Fpfp_1787507486674_lilies.jpg",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10985949885%2Fbackground_1787507487200_download_sprite.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10985949885%2Fbrand_1787507487451_lilies.jpg",
+    "backgroundSprite": {
+      "frames": 42,
+      "frameWidth": 325,
+      "frameHeight": 73,
+      "cols": 3,
+      "rows": 14,
+      "fps": 10,
+      "duration": 4.2
+    }
   }
 ]
