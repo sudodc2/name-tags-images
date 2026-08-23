@@ -170,16 +170,16 @@
     "glitchText": true,
     "tagWidth": 320,
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fpfp_1787451749082_212a2ee1d6dc5ea23885670b1de81a9b.jpg",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787507827343_xb96qFmromu7_sprite.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787507896691_54933401a_sprite.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbrand_1787451749482_212a2ee1d6dc5ea23885670b1de81a9b.jpg",
     "backgroundSprite": {
-      "frames": 15,
-      "frameWidth": 512,
-      "frameHeight": 115,
-      "cols": 2,
-      "rows": 8,
-      "fps": 10,
-      "duration": 1.5
+      "frames": 42,
+      "frameWidth": 325,
+      "frameHeight": 73,
+      "cols": 3,
+      "rows": 14,
+      "fps": 4.198740377886634,
+      "duration": 10.003
     }
   },
   {
