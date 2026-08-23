@@ -236,5 +236,21 @@
     "pfpImage": "",
     "backgroundImage": "",
     "brandImage": ""
+  },
+  {
+    "userId": "11032081389",
+    "displayName": "X9K",
+    "username": "x9k_alt",
+    "textColor": "#ffffff",
+    "font": "SourceSansBold",
+    "tagColor": "#ffc800",
+    "outlineColor": "#ffea00",
+    "outlineGradient": true,
+    "typewriterText": true,
+    "glitchText": true,
+    "tagWidth": 120,
+    "pfpImage": "",
+    "backgroundImage": "",
+    "brandImage": ""
   }
 ]
