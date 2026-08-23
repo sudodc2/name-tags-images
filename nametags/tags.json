@@ -7,9 +7,9 @@
     "tagColor": "#000000",
     "outlineColor": "#ff0000",
     "font": "GothamBold",
-    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fpfp_1787446998040_discord_avatar_decoration_animated_1787446957217_sprite.png",
+    "pfpImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/10650684936/pfp_1787396035855_212a2ee1d6dc5ea23885670b1de81a9b.jpg",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787432870251_From_Klickpin.com-_Snack_Board_Ideas_Inspiration_for_Holiday-pin-id-703124560606489638_sprite.png",
-    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbrand_1787446998331_discord_avatar_decoration_animated_1787446957217_sprite.png",
+    "brandImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/10650684936/brand_1787396037514_212a2ee1d6dc5ea23885670b1de81a9b.jpg",
     "outlineGradient": true,
     "typewriterText": true,
     "glitchText": true,
@@ -21,25 +21,7 @@
       "rows": 14,
       "fps": 7.636363636363637
     },
-    "tagWidth": 320,
-    "pfpSprite": {
-      "frames": 121,
-      "frameWidth": 93,
-      "frameHeight": 93,
-      "cols": 11,
-      "rows": 11,
-      "fps": 25,
-      "duration": 4.84
-    },
-    "brandSprite": {
-      "frames": 121,
-      "frameWidth": 93,
-      "frameHeight": 93,
-      "cols": 11,
-      "rows": 11,
-      "fps": 25,
-      "duration": 4.84
-    }
+    "tagWidth": 320
   },
   {
     "userId": "9306062616",
@@ -179,7 +161,7 @@
     "tagWidth": 480,
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10766660977%2Fpfp_1787446657386_discord_avatar_decoration_animated_1787446639755_sprite.png",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10766660977%2Fbackground_1787446210383_giphy_sprite.png",
-    "brandImage": "",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10766660977%2Fbrand_1787447031107_c60a0ed6914e3b87cb14662cadf89719.webp",
     "backgroundSprite": {
       "frames": 31,
       "frameWidth": 341,
