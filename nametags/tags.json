@@ -175,8 +175,8 @@
   },
   {
     "userId": "1439184810",
-    "displayName": "Sleepy",
-    "username": "Nigger",
+    "displayName": " Sleepy",
+    "username": "",
     "textColor": "#000000",
     "font": "GothamBold",
     "tagColor": "#ffffff",
@@ -184,7 +184,7 @@
     "outlineGradient": true,
     "typewriterText": false,
     "glitchText": true,
-    "tagWidth": 180,
+    "tagWidth": 140,
     "pfpImage": "",
     "backgroundImage": "",
     "brandImage": ""
