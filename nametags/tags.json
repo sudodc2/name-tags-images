@@ -425,5 +425,27 @@
       "fps": 5,
       "duration": 2
     }
+  },
+  {
+    "userId": "9013080438",
+    "displayName": "Bubbles",
+    "username": "",
+    "textColor": "#ffffff",
+    "font": "Bodoni",
+    "tagColor": "#000000",
+    "outlineColor": "#000000",
+    "outlineGradient": false,
+    "typewriterText": false,
+    "glitchText": false,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90,
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9013080438%2Fpfp_1787558331030_IMG_0413.jpg",
+    "backgroundImage": "",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9013080438%2Fbrand_1787558331761_f806cc5dc7f0bd022cb6f40e3c27e61a.jpg"
   }
 ]
