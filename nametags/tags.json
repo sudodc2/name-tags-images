@@ -394,5 +394,36 @@
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10826781066%2Fpfp_1787549516556_ChatGPT_Image_Aug_17_2026_07_34_09_PM.png",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10826781066%2Fbackground_1787549518001_Screenshot_2026-08-24_153017.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10826781066%2Fbrand_1787549519689_ChatGPT_Image_Aug_17_2026_07_34_09_PM.png"
+  },
+  {
+    "userId": "533907091",
+    "displayName": "Lux",
+    "username": "Lux0logy",
+    "textColor": "#ffffff",
+    "font": "Ubuntu",
+    "tagColor": "#ffffff",
+    "outlineColor": "#1d0628",
+    "outlineGradient": false,
+    "typewriterText": true,
+    "glitchText": true,
+    "glowEnabled": true,
+    "glowColor": "#ffffff",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90,
+    "tagWidth": 200,
+    "pfpImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F533907091%2Fbackground_1787549692379_2040-purple_sprite.png",
+    "brandImage": "",
+    "backgroundSprite": {
+      "frames": 10,
+      "frameWidth": 512,
+      "frameHeight": 115,
+      "cols": 2,
+      "rows": 5,
+      "fps": 5,
+      "duration": 2
+    }
   }
 ]
