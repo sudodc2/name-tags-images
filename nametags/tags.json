@@ -355,7 +355,7 @@
     "textColor": "#ffffff",
     "font": "GothamBold",
     "tagColor": "#000000",
-    "outlineColor": "#ffffff",
+    "outlineColor": "#000000",
     "outlineGradient": true,
     "typewriterText": true,
     "glitchText": true,
@@ -371,7 +371,13 @@
       "rows": 10,
       "fps": 10,
       "duration": 2
-    }
+    },
+    "glowEnabled": true,
+    "glowColor": "#ffffff",
+    "textGradient": true,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90
   },
   {
     "userId": "10826781066",
