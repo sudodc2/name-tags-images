@@ -191,9 +191,9 @@
       "fps": 25,
       "duration": 1.68
     },
-    "glowEnabled": true,
+    "glowEnabled": false,
     "glowColor": "#ff0000",
-    "textGradient": true,
+    "textGradient": false,
     "textGradientStart": "#0400ff",
     "textGradientEnd": "#ff0000",
     "spinTransition": true,
