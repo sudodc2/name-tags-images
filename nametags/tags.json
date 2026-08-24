@@ -463,5 +463,27 @@
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fnew_1787559113313%2Fpfp_1787559165471_IMG_0413.jpg",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9013080438%2Fbackground_1787559270236_Screenshot_2026-08-24_181355.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fnew_1787559113313%2Fbrand_1787559166821_7ec576dd62212111f8d1bb8dd1ed877b.jpg"
+  },
+  {
+    "userId": "8714418380",
+    "displayName": "NIGGER",
+    "username": "Slave",
+    "textColor": "#000000",
+    "font": "Nunito",
+    "tagColor": "#000000",
+    "outlineColor": "#000000",
+    "outlineGradient": false,
+    "typewriterText": false,
+    "glitchText": false,
+    "glowEnabled": true,
+    "glowColor": "#ffffff",
+    "textGradient": true,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#ffffff",
+    "spinSpeed": 90,
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8714418380%2Fpfp_1787572798202_5e9c5e7ac23507985b79c0136b14010b.jpg",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8714418380%2Fbackground_1787572798924_67af02deaa84b3f6d1d0ed2f831a7eec.jpg",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8714418380%2Fbrand_1787572800245_Screenshot_2026-08-24_215945.png"
   }
 ]
