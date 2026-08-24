@@ -433,11 +433,11 @@
     }
   },
   {
-    "userId": "9013080438",
+    "userId": "new_1787559113313",
     "displayName": "Bubbles",
-    "username": "JohnPorkIsANigger",
+    "username": "JohnPork",
     "textColor": "#ffffff",
-    "font": "Ubuntu",
+    "font": "GothamBold",
     "tagColor": "#000000",
     "outlineColor": "#000000",
     "outlineGradient": false,
@@ -449,9 +449,9 @@
     "textGradientStart": "#ffffff",
     "textGradientEnd": "#78c882",
     "spinSpeed": 90,
-    "tagWidth": 300,
-    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9013080438%2Fpfp_1787558331030_IMG_0413.jpg",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9013080438%2Fbackground_1787559084974_3ff1188e69af720e8c046a417cebfba2.jpg",
-    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9013080438%2Fbrand_1787558331761_f806cc5dc7f0bd022cb6f40e3c27e61a.jpg"
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fnew_1787559113313%2Fpfp_1787559165471_IMG_0413.jpg",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fnew_1787559113313%2Fbackground_1787559166115_3ff1188e69af720e8c046a417cebfba2.jpg",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fnew_1787559113313%2Fbrand_1787559166821_7ec576dd62212111f8d1bb8dd1ed877b.jpg"
   }
 ]
