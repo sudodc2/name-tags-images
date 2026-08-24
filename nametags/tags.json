@@ -485,5 +485,27 @@
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8714418380%2Fpfp_1787572798202_5e9c5e7ac23507985b79c0136b14010b.jpg",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8714418380%2Fbackground_1787572798924_67af02deaa84b3f6d1d0ed2f831a7eec.jpg",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8714418380%2Fbrand_1787572800245_Screenshot_2026-08-24_215945.png"
+  },
+  {
+    "userId": "11381396948",
+    "displayName": "Syro",
+    "username": "Papa Syro",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#000000",
+    "outlineGradient": false,
+    "typewriterText": false,
+    "glitchText": false,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90,
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11381396948%2Fpfp_1787575977453_IMG_7862.jpg",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11381396948%2Fbackground_1787575979139_IMG_8227.jpg",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11381396948%2Fbrand_1787575980114_43dcf8a21de960b49f5f8bf659edaa51.jpg"
   }
 ]
