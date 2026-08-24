@@ -449,7 +449,7 @@
     "textGradientStart": "#ffffff",
     "textGradientEnd": "#78c882",
     "spinSpeed": 90,
-    "tagWidth": 290,
+    "tagWidth": 200,
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9013080438%2Fpfp_1787558331030_IMG_0413.jpg",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9013080438%2Fbackground_1787558986579_3985dc85a9744c92a1c8727c11914494.jpg",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9013080438%2Fbrand_1787558331761_f806cc5dc7f0bd022cb6f40e3c27e61a.jpg"
