@@ -1,7 +1,7 @@
 [
   {
     "userId": "9306062616",
-    "displayName": "Unicorn Man  ‎",
+    "displayName": "Unicorn Man ‎",
     "username": "@Unicorn Man",
     "textColor": "#ffffff",
     "font": "GothamBold",
@@ -9,7 +9,17 @@
     "outlineColor": "#fb13ae",
     "pfpImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/9306062616/pfp_1787398798506_ptofile_pc.png",
     "backgroundImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/9306062616/background_1787398800398_bc_uni_corn.png",
-    "brandImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/9306062616/brand_1787398802330_ptofile_pc.png"
+    "brandImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/9306062616/brand_1787398802330_ptofile_pc.png",
+    "outlineGradient": true,
+    "typewriterText": true,
+    "glitchText": true,
+    "glowEnabled": true,
+    "glowColor": "#78c882",
+    "textGradient": true,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90,
+    "tagWidth": 320
   },
   {
     "userId": "10012699579",
