@@ -415,7 +415,7 @@
     "tagWidth": 120,
     "pfpImage": "",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F533907091%2Fbackground_1787549692379_2040-purple_sprite.png",
-    "brandImage": "",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F533907091%2Fbrand_1787550300465_7b092550817165757f25d379e8564c2d.jpg",
     "backgroundSprite": {
       "frames": 10,
       "frameWidth": 512,
