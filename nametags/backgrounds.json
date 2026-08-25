@@ -100,6 +100,11 @@
       "name": "Unicorn",
       "file": "unicorn.png",
       "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/Unicorn.png"
+    },
+    {
+      "name": "Colorful",
+      "url": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fglobal%2Fbackground_1787677000278_723bcd60.jpg",
+      "file": "Colorful.jpg"
     }
   ]
 }
