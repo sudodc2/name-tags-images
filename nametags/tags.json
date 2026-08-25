@@ -779,5 +779,27 @@
       "fps": 29.878048780487806,
       "duration": 1.64
     }
+  },
+  {
+    "userId": "4438596034",
+    "displayName": "SINFUL ",
+    "username": "@St4rsBurning",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#b60001",
+    "outlineGradient": true,
+    "typewriterText": false,
+    "glitchText": true,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90,
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F4438596034%2Fpfp_1787690368963_e9a83a00.jpeg",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F4438596034%2Fbackground_1787690369285_35452f8c.jpeg",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F4438596034%2Fbrand_1787690369614_8a1166fe.jpeg"
   }
 ]
