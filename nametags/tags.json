@@ -560,5 +560,27 @@
       "fps": 25,
       "duration": 0.92
     }
+  },
+  {
+    "userId": "5008886236",
+    "displayName": "The Rizzer Nigger",
+    "username": "@junomilesmo",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#878787",
+    "outlineGradient": true,
+    "typewriterText": false,
+    "glitchText": true,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90,
+    "tagWidth": 320,
+    "pfpImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F5008886236%2Fbackground_1787620978545.webp",
+    "brandImage": ""
   }
 ]
