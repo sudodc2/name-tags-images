@@ -1,5 +1,5 @@
 {
-  "active": "IMG 0289",
+  "active": "Cat",
   "backgrounds": [
     {
       "name": "Cat",
@@ -100,11 +100,6 @@
       "name": "Unicorn",
       "file": "unicorn.png",
       "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/Unicorn.png"
-    },
-    {
-      "name": "IMG 0289",
-      "url": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fglobal%2Fbackground_1787676861151_a78f88af.jpg",
-      "file": "IMG_0289.jpg"
     }
   ]
 }
