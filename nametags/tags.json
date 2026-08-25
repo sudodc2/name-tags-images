@@ -854,5 +854,38 @@
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11237769348%2Fbackground_1787700896740_ef95fc87.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11237769348%2Fbrand_1787700920631_47a79991.png",
     "pfpSprite": null
+  },
+  {
+    "userId": "1436036648",
+    "displayName": "HORNY VEX",
+    "username": "@hippyhippy17",
+    "textColor": "#ff0000",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#ffffff",
+    "outlineGradient": true,
+    "typewriterText": false,
+    "glitchText": true,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90,
+    "tagWidth": 320,
+    "pfpImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F1436036648%2Fbackground_1787701253753_eff2f8d8.png",
+    "brandImage": "",
+    "pfpSprite": null,
+    "backgroundSprite": {
+      "frames": 19,
+      "frameWidth": 341,
+      "frameHeight": 76,
+      "cols": 2,
+      "rows": 10,
+      "fps": 25,
+      "duration": 0.76
+    },
+    "brandSprite": null
   }
 ]
