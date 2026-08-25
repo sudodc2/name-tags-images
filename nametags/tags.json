@@ -694,5 +694,27 @@
       "fps": 20,
       "duration": 1
     }
+  },
+  {
+    "userId": "9476288360",
+    "displayName": "Nevy",
+    "username": "@RI000MAINALT",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#919191",
+    "outlineGradient": false,
+    "typewriterText": false,
+    "glitchText": false,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90,
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9476288360%2Fpfp_1787679115595_f9bb7fed.jpg",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9476288360%2Fbackground_1787679115935_d68d347b.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9476288360%2Fbrand_1787679116277_b13c6da2.jpg"
   }
 ]
