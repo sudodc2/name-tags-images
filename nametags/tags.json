@@ -663,5 +663,36 @@
       "fps": 33.333333333333336,
       "duration": 0.6
     }
+  },
+  {
+    "userId": "8939106149",
+    "displayName": "ℳ𝒶𝓇𝒾_𝒷𝒶𝒷𝓎",
+    "username": "@baconglobenMas",
+    "textColor": "#000000",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#00e1ff",
+    "outlineGradient": true,
+    "typewriterText": false,
+    "glitchText": true,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90,
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8939106149%2Fpfp_1787672616278_e0057956.jpg",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8939106149%2Fbackground_1787672616830_78572287.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8939106149%2Fbrand_1787672617192_cef08384.jpg",
+    "backgroundSprite": {
+      "frames": 20,
+      "frameWidth": 341,
+      "frameHeight": 76,
+      "cols": 2,
+      "rows": 10,
+      "fps": 20,
+      "duration": 1
+    }
   }
 ]
