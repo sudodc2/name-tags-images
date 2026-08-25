@@ -512,10 +512,10 @@
     "userId": "4014797535",
     "displayName": "DOLLz",
     "username": "@FerrousSaprk9321",
-    "textColor": "#c800ff",
+    "textColor": "#d642ff",
     "font": "GothamBold",
     "tagColor": "#000000",
-    "outlineColor": "#f500c8",
+    "outlineColor": "#fe3edb",
     "outlineGradient": true,
     "typewriterText": false,
     "glitchText": true,
@@ -527,17 +527,8 @@
     "spinSpeed": 90,
     "tagWidth": 320,
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F4014797535%2Fpfp_1787613942955_D1A023BF-1A7B-48E0-AFAB-09BDA5BDBADE.png",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F4014797535%2Fbackground_1787613943375_4beaca89dc536ab5b2766d00af2f095e_sprite.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F4014797535%2Fbackground_1787616594604.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F4014797535%2Fbrand_1787614356053_bf3676d6107b8953decfb33ad16ebf9b_sprite.png",
-    "backgroundSprite": {
-      "frames": 42,
-      "frameWidth": 325,
-      "frameHeight": 73,
-      "cols": 3,
-      "rows": 14,
-      "fps": 20,
-      "duration": 2.1
-    },
     "brandSprite": {
       "frames": 45,
       "frameWidth": 146,
@@ -546,6 +537,15 @@
       "rows": 7,
       "fps": 33.33333333333333,
       "duration": 1.35
+    },
+    "backgroundSprite": {
+      "frames": 42,
+      "frameWidth": 325,
+      "frameHeight": 73,
+      "cols": 3,
+      "rows": 14,
+      "fps": 2.9928741803533057,
+      "duration": 14.033333
     }
   }
 ]
