@@ -309,9 +309,9 @@
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11367265345%2Fbrand_1787505239729_IMG_6295.png"
   },
   {
-    "userId": "309670106",
-    "displayName": "Attempt",
-    "username": "@47wy",
+    "userId": "10985949885",
+    "displayName": "Attempt ‎",
+    "username": "@loveattemptt",
     "textColor": "#8f3d3d",
     "font": "GothamBold",
     "tagColor": "#000000",
@@ -332,7 +332,7 @@
       "fps": 10,
       "duration": 4.2
     },
-    "glowEnabled": false,
+    "glowEnabled": true,
     "glowColor": "#78c882",
     "textGradient": true,
     "textGradientStart": "#ffffff",
@@ -807,29 +807,5 @@
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F4438596034%2Fpfp_1787690368963_e9a83a00.jpeg",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F4438596034%2Fbackground_1787690369285_35452f8c.jpeg",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F4438596034%2Fbrand_1787690369614_8a1166fe.jpeg"
-  },
-  {
-    "userId": "11575027499",
-    "displayName": "AMOUR",
-    "username": "@amour_altt",
-    "textColor": "#ff0000",
-    "font": "GothamBold",
-    "tagColor": "#000000",
-    "outlineColor": "#ff0000",
-    "outlineGradient": true,
-    "typewriterText": false,
-    "glitchText": true,
-    "glowEnabled": false,
-    "glowColor": "#78c882",
-    "textGradient": false,
-    "textGradientStart": "#ffffff",
-    "textGradientEnd": "#78c882",
-    "spinSpeed": 90,
-    "tagWidth": 320,
-    "pfpImage": "",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11575027499%2Fbackground_1787695701502_90891e45.jpg",
-    "brandImage": "",
-    "pfpSprite": null,
-    "brandSprite": null
   }
 ]
