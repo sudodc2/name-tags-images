@@ -169,7 +169,7 @@
   },
   {
     "userId": "10650684936",
-    "displayName": "OW_NER ‎",
+    "displayName": "OWNER ‎",
     "username": "@MelodyCrafterAlt",
     "textColor": "#ffffff",
     "font": "GothamBold",
@@ -183,7 +183,7 @@
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787625396314.jpg",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbrand_1787625396508.jpg",
     "glowEnabled": false,
-    "glowColor": "#ff0000",
+    "glowColor": "#ffffff",
     "textGradient": false,
     "textGradientStart": "#0400ff",
     "textGradientEnd": "#ff0000",
