@@ -738,5 +738,46 @@
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8595404534%2Fpfp_1787679286785_f42b287e.jpg",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8595404534%2Fbackground_1787679287095_6274186a.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8595404534%2Fbrand_1787679287442_dd60568a.jpg"
+  },
+  {
+    "userId": "8431132513",
+    "displayName": "Crisp",
+    "username": "@16478uaopsdfim",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#7d7d7d",
+    "outlineGradient": true,
+    "typewriterText": false,
+    "glitchText": true,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90,
+    "tagWidth": 320,
+    "pfpImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8431132513%2Fbackground_1787680862621_33df4faa.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8431132513%2Fbrand_1787680863208_d09f89a9.png",
+    "pfpSprite": null,
+    "backgroundSprite": {
+      "frames": 20,
+      "frameWidth": 341,
+      "frameHeight": 76,
+      "cols": 2,
+      "rows": 10,
+      "fps": 29.850746268656714,
+      "duration": 0.67
+    },
+    "brandSprite": {
+      "frames": 49,
+      "frameWidth": 109,
+      "frameHeight": 109,
+      "cols": 7,
+      "rows": 7,
+      "fps": 29.878048780487806,
+      "duration": 1.64
+    }
   }
 ]
