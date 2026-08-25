@@ -309,9 +309,9 @@
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11367265345%2Fbrand_1787505239729_IMG_6295.png"
   },
   {
-    "userId": "10985949885",
+    "userId": "309670106",
     "displayName": "Attempt",
-    "username": "@loveattemptt",
+    "username": "@47wy",
     "textColor": "#8f3d3d",
     "font": "GothamBold",
     "tagColor": "#000000",
@@ -331,7 +331,13 @@
       "rows": 14,
       "fps": 10,
       "duration": 4.2
-    }
+    },
+    "glowEnabled": true,
+    "glowColor": "#78c882",
+    "textGradient": true,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90
   },
   {
     "userId": "11249558049",
