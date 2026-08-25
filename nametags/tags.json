@@ -642,7 +642,7 @@
     "spinSpeed": 90,
     "tagWidth": 320,
     "pfpImage": "",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F3248830343%2Fbackground_1787624963002.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F3248830343%2Fbackground_1787625069560.png",
     "brandImage": "",
     "pfpSprite": null,
     "brandSprite": null,
@@ -652,8 +652,8 @@
       "frameHeight": 76,
       "cols": 2,
       "rows": 10,
-      "fps": 10,
-      "duration": 2
+      "fps": 33.333333333333336,
+      "duration": 0.6
     }
   }
 ]
