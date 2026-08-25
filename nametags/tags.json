@@ -602,7 +602,7 @@
     "spinSpeed": 90,
     "tagWidth": 320,
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11568612621%2Fpfp_1787621236883.jpg",
-    "backgroundImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11568612621%2Fbackground_1787623816503.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11568612621%2Fbrand_1787621237438.jpg",
     "backgroundSprite": {
       "frames": 1,
