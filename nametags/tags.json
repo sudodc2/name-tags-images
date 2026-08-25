@@ -180,7 +180,7 @@
     "glitchText": true,
     "tagWidth": 320,
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fpfp_1787617421979.jpg",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787624992322.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787625059811.jpg",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbrand_1787617435845.jpg",
     "glowEnabled": false,
     "glowColor": "#ff0000",
@@ -188,16 +188,7 @@
     "textGradientStart": "#0400ff",
     "textGradientEnd": "#ff0000",
     "spinTransition": true,
-    "spinSpeed": 90,
-    "backgroundSprite": {
-      "frames": 20,
-      "frameWidth": 341,
-      "frameHeight": 76,
-      "cols": 2,
-      "rows": 10,
-      "fps": 33.333333333333336,
-      "duration": 0.6
-    }
+    "spinSpeed": 90
   },
   {
     "userId": "1439184810",
