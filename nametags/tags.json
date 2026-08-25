@@ -724,10 +724,10 @@
     "textColor": "#ffffff",
     "font": "GothamBold",
     "tagColor": "#000000",
-    "outlineColor": "#000000",
-    "outlineGradient": false,
+    "outlineColor": "#6e6e6e",
+    "outlineGradient": true,
     "typewriterText": false,
-    "glitchText": false,
+    "glitchText": true,
     "glowEnabled": false,
     "glowColor": "#78c882",
     "textGradient": false,
@@ -737,9 +737,6 @@
     "tagWidth": 320,
     "pfpImage": "",
     "backgroundImage": "",
-    "brandImage": "",
-    "pfpSprite": null,
-    "backgroundSprite": null,
-    "brandSprite": null
+    "brandImage": ""
   }
 ]
