@@ -831,5 +831,29 @@
     "brandImage": "",
     "pfpSprite": null,
     "brandSprite": null
+  },
+  {
+    "userId": "11237769348",
+    "displayName": "PapiTaco",
+    "username": "@Bobbyzesty",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#78c882",
+    "outlineGradient": true,
+    "typewriterText": false,
+    "glitchText": true,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90,
+    "tagWidth": 320,
+    "pfpImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11237769348%2Fbackground_1787700896740_ef95fc87.png",
+    "brandImage": "",
+    "pfpSprite": null,
+    "brandSprite": null
   }
 ]
