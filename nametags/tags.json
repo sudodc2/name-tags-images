@@ -538,5 +538,36 @@
       "fps": 24.324324324324323,
       "duration": 1.11
     }
+  },
+  {
+    "userId": "5808698123",
+    "displayName": "GOD T0 TUFF",
+    "username": "@GOD_T0tuff",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#006eff",
+    "outlineGradient": true,
+    "typewriterText": false,
+    "glitchText": true,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90,
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F5808698123%2Fpfp_1787619093820.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F5808698123%2Fbackground_1787619094343.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F5808698123%2Fbrand_1787619094681.png",
+    "backgroundSprite": {
+      "frames": 23,
+      "frameWidth": 379,
+      "frameHeight": 85,
+      "cols": 2,
+      "rows": 12,
+      "fps": 25,
+      "duration": 0.92
+    }
   }
 ]
