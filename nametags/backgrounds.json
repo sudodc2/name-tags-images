@@ -1,4 +1,110 @@
 {
-  "active": "",
-  "backgrounds": []
+  "active": "IMG 0289",
+  "backgrounds": [
+    {
+      "name": "Cat",
+      "file": "cat.jpg",
+      "url": "https://raw.githubusercontent.com/sudodc2/Lua/main/cat.jpg"
+    },
+    {
+      "name": "Can",
+      "file": "bg_can.png",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/can.png"
+    },
+    {
+      "name": "Hands",
+      "file": "bg_hands.jpg",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/Hands.jpg"
+    },
+    {
+      "name": "5 Stars",
+      "file": "5_stars.jpg",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/5%20Stars.jpg"
+    },
+    {
+      "name": "Headshot",
+      "file": "headshot.jpg",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/Headshot.jpg"
+    },
+    {
+      "name": "Silver Star",
+      "file": "silver_star.jpg",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/Silver%20Star.jpg"
+    },
+    {
+      "name": "Silver Rose",
+      "file": "silver_rose.jpg",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/Silver%20rose.jpg"
+    },
+    {
+      "name": "Mask",
+      "file": "mask.jpg",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/Mask.jpg"
+    },
+    {
+      "name": "Dark Eyes",
+      "file": "dark_eyes.jpg",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/Dark%20Eyes.jpg"
+    },
+    {
+      "name": "Ghost Face",
+      "file": "ghost_face.jpg",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/Ghost%20Face.jpg"
+    },
+    {
+      "name": "Red King",
+      "file": "red_king.jpg",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/Red%20King.jpg"
+    },
+    {
+      "name": "Anime Lady",
+      "file": "anime_lady.jpg",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/Anime%20Lady.jpg"
+    },
+    {
+      "name": "Anime Cosplay",
+      "file": "anime_cosplay.jpg",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/Anime%20Cosplay.jpg"
+    },
+    {
+      "name": "White Eyes",
+      "file": "white_eyes.jpg",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/White%20Eyes.jpg"
+    },
+    {
+      "name": "OnyxV1 Black",
+      "file": "onyx_v1_black.png",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/OnyxV1%20Black.png"
+    },
+    {
+      "name": "OnyxV2 Blue",
+      "file": "onyx_v2_blue.png",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/OnyxV2%20Blue.png"
+    },
+    {
+      "name": "OnyxV3 Purple",
+      "file": "onyx_v3_purple.png",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/OnyxV3%20Purple.png"
+    },
+    {
+      "name": "OnyxV4 Yellow",
+      "file": "onyx_v4_yellow.png",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/OnyxV4%20Yellow.png"
+    },
+    {
+      "name": "OnyxV5 Red",
+      "file": "onyx_v5_red.png",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/OnyxV5%20Red.png"
+    },
+    {
+      "name": "Unicorn",
+      "file": "unicorn.png",
+      "url": "https://raw.githubusercontent.com/sudodc2/Backgrounds/main/Unicorn.png"
+    },
+    {
+      "name": "IMG 0289",
+      "url": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fglobal%2Fbackground_1787676861151_a78f88af.jpg",
+      "file": "IMG_0289.jpg"
+    }
+  ]
 }
