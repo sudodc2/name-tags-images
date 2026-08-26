@@ -165,7 +165,13 @@
       "rows": 11,
       "fps": 25,
       "duration": 4.84
-    }
+    },
+    "glowEnabled": true,
+    "glowColor": "#b8f3ff",
+    "textGradient": true,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#e0ffe4",
+    "spinSpeed": 90
   },
   {
     "userId": "10650684936",
