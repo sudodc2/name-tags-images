@@ -77,7 +77,7 @@
   },
   {
     "userId": "10565812383",
-    "displayName": "ASAP Astro ‎",
+    "displayName": "ASAP Astro ‎",
     "username": "@LongLiveAstr0",
     "textColor": "#000000",
     "font": "GothamBold",
@@ -88,7 +88,14 @@
     "glitchText": true,
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10565812383%2Fpfp_1787435840487_astro_p.png",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10565812383%2Fbackground_1787435840756_astro_b.png",
-    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10565812383%2Fbrand_1787435841169_astro_p.png"
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10565812383%2Fbrand_1787435841169_astro_p.png",
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90,
+    "tagWidth": 320
   },
   {
     "userId": "10207307079",
