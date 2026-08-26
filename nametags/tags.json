@@ -963,5 +963,30 @@
       "fps": 0,
       "duration": 0
     }
+  },
+  {
+    "userId": "10980669110",
+    "displayName": "Unicorn Man ‎",
+    "username": "Unicorn Man",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#fb13ae",
+    "outlineGradient": false,
+    "typewriterText": false,
+    "glitchText": false,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 60,
+    "tagWidth": 320,
+    "pfpImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/9306062616/pfp_1787398798506_ptofile_pc.png",
+    "backgroundImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/9306062616/background_1787398800398_bc_uni_corn.png",
+    "brandImage": "https://raw.githubusercontent.com/sudodc2/name-tags-images/main/nametags/9306062616/brand_1787398802330_ptofile_pc.png",
+    "pfpSprite": null,
+    "backgroundSprite": null,
+    "brandSprite": null
   }
 ]
