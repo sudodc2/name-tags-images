@@ -46,9 +46,9 @@
   },
   {
     "userId": "11293282212",
-    "displayName": "DEVELOPER",
+    "displayName": "DEVELOPER ",
     "username": "@SudoCreator1",
-    "textColor": "#ffdd00",
+    "textColor": "#ffffff",
     "font": "GothamBold",
     "tagColor": "#888686",
     "outlineColor": "#6800bd",
@@ -66,7 +66,14 @@
       "rows": 14,
       "fps": 4.19747773562866,
       "duration": 10.006009
-    }
+    },
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": true,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90,
+    "tagWidth": 320
   },
   {
     "userId": "10565812383",
