@@ -149,7 +149,7 @@
   },
   {
     "userId": "10766660977",
-    "displayName": "SCOPER",
+    "displayName": "SCOPER ",
     "username": "@yourscoperr",
     "textColor": "#ffffff",
     "font": "FredokaOne",
@@ -179,7 +179,13 @@
       "rows": 11,
       "fps": 25,
       "duration": 4.84
-    }
+    },
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90
   },
   {
     "userId": "10650684936",
