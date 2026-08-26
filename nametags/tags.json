@@ -894,5 +894,54 @@
       "fps": 25,
       "duration": 0.76
     }
+  },
+  {
+    "userId": "1073400869",
+    "displayName": "Dxcoy",
+    "username": "@dxcoy83",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#0008ff",
+    "outlineGradient": true,
+    "typewriterText": false,
+    "glitchText": true,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 90,
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F1073400869%2Fpfp_1787703574774_7baf8cd1.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F1073400869%2Fbackground_1787703575002_c1163b68.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F1073400869%2Fbrand_1787703575194_b1c5895f.png",
+    "pfpSprite": {
+      "frames": 1,
+      "frameWidth": 86,
+      "frameHeight": 86,
+      "cols": 1,
+      "rows": 1,
+      "fps": 0,
+      "duration": 0
+    },
+    "backgroundSprite": {
+      "frames": 1,
+      "frameWidth": 320,
+      "frameHeight": 72,
+      "cols": 1,
+      "rows": 1,
+      "fps": 0,
+      "duration": 0
+    },
+    "brandSprite": {
+      "frames": 1,
+      "frameWidth": 100,
+      "frameHeight": 100,
+      "cols": 1,
+      "rows": 1,
+      "fps": 0,
+      "duration": 0
+    }
   }
 ]
