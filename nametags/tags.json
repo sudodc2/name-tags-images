@@ -996,7 +996,7 @@
     "textColor": "#ffffff",
     "font": "GothamBold",
     "tagColor": "#000000",
-    "outlineColor": "#ff0000",
+    "outlineColor": "#4d4d4d",
     "outlineGradient": true,
     "typewriterText": false,
     "glitchText": true,
