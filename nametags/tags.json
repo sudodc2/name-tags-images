@@ -536,7 +536,7 @@
     "outlineGradient": true,
     "typewriterText": false,
     "glitchText": true,
-    "glowEnabled": true,
+    "glowEnabled": false,
     "glowColor": "#78c882",
     "textGradient": false,
     "textGradientStart": "#ffffff",
