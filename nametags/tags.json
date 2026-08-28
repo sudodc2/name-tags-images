@@ -1029,7 +1029,7 @@
     "font": "GothamBold",
     "tagColor": "#000000",
     "outlineColor": "#808080",
-    "textOutlineColor": "#000000",
+    "textOutlineColor": "#dedede",
     "outlineGradient": true,
     "typewriterText": false,
     "glitchText": true,
