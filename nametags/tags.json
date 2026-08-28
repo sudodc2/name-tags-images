@@ -1042,7 +1042,7 @@
     "tagWidth": 320,
     "pfpImage": "",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11400353844%2Fbackground_1787960756078_40ec9007.png",
-    "brandImage": "",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11400353844%2Fbrand_1787960761493_48010f15.png",
     "pfpSprite": null,
     "backgroundSprite": {
       "frames": 20,
@@ -1053,6 +1053,14 @@
       "fps": 8.333333333333334,
       "duration": 2.4
     },
-    "brandSprite": null
+    "brandSprite": {
+      "frames": 28,
+      "frameWidth": 128,
+      "frameHeight": 128,
+      "cols": 5,
+      "rows": 6,
+      "fps": 8.333333333333334,
+      "duration": 3.36
+    }
   }
 ]
