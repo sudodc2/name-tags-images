@@ -1020,5 +1020,31 @@
       "fps": 12.048192771084338,
       "duration": 1.66
     }
+  },
+  {
+    "userId": "11400353844",
+    "displayName": "MOON",
+    "username": "@copeisntttmeo",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#808080",
+    "textOutlineColor": "#000000",
+    "outlineGradient": true,
+    "typewriterText": false,
+    "glitchText": true,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 60,
+    "tagWidth": 320,
+    "pfpImage": "",
+    "backgroundImage": "",
+    "brandImage": "",
+    "pfpSprite": null,
+    "backgroundSprite": null,
+    "brandSprite": null
   }
 ]
