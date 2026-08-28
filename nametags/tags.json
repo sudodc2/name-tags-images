@@ -554,7 +554,8 @@
       "rows": 9,
       "fps": 24.324324324324323,
       "duration": 1.11
-    }
+    },
+    "textOutlineColor": "#ffffff"
   },
   {
     "userId": "5808698123",
