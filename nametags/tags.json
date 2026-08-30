@@ -1066,7 +1066,7 @@
   {
     "userId": "2829654187",
     "displayName": "Mellow",
-    "username": "Mellow",
+    "username": "",
     "textColor": "#ffffff",
     "font": "GothamBold",
     "tagColor": "#000000",
@@ -1083,10 +1083,8 @@
     "spinSpeed": 60,
     "tagWidth": 320,
     "pfpImage": "",
-    "backgroundImage": "",
-    "brandImage": "",
-    "pfpSprite": null,
-    "backgroundSprite": null,
-    "brandSprite": null
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F2829654187%2Fbackground_1788126903733_226df1d7.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F2829654187%2Fbrand_1788126904787_c254f89c.jpg",
+    "pfpSprite": null
   }
 ]
