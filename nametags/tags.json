@@ -1062,5 +1062,31 @@
       "fps": 8.333333333333334,
       "duration": 3.36
     }
+  },
+  {
+    "userId": "2829654187",
+    "displayName": "Mellow",
+    "username": "Mellow",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#000000",
+    "textOutlineColor": "#ffffff",
+    "outlineGradient": false,
+    "typewriterText": false,
+    "glitchText": false,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 60,
+    "tagWidth": 320,
+    "pfpImage": "",
+    "backgroundImage": "",
+    "brandImage": "",
+    "pfpSprite": null,
+    "backgroundSprite": null,
+    "brandSprite": null
   }
 ]
