@@ -1077,5 +1077,28 @@
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F258409328%2Fpfp_1788162543924_87745d19.jpeg",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F258409328%2Fbackground_1788162387378_07f86fbe.jpg",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F258409328%2Fbrand_1788162522458_4bd0c57b.jpg"
+  },
+  {
+    "userId": "331617394",
+    "displayName": "KIKO",
+    "username": "",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#000000",
+    "textOutlineColor": "#000000",
+    "outlineGradient": false,
+    "typewriterText": false,
+    "glitchText": false,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 60,
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F331617394%2Fpfp_1788164923505_ba5b6351.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F331617394%2Fbackground_1788164924632_edd60527.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F331617394%2Fbrand_1788164925448_128c9023.jpg"
   }
 ]
