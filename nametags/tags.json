@@ -405,7 +405,7 @@
   },
   {
     "userId": "533907091",
-    "displayName": "Lux",
+    "displayName": "Lux‎",
     "username": "Lux0logy",
     "textColor": "#ffffff",
     "font": "Ubuntu",
@@ -432,7 +432,8 @@
       "rows": 5,
       "fps": 5,
       "duration": 2
-    }
+    },
+    "textOutlineColor": "#000000"
   },
   {
     "userId": "9013080438",
