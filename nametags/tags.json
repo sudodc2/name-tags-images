@@ -1053,5 +1053,29 @@
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8925287227%2Fpfp_1788142880455_bd67d4f4.png",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8925287227%2Fbackground_1788143109074_b9056746.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8925287227%2Fbrand_1788142884831_94b0f71c.jpg"
+  },
+  {
+    "userId": "258409328",
+    "displayName": "MK ANIMS",
+    "username": "",
+    "textColor": "#ffffff",
+    "font": "SourceSansBold",
+    "tagColor": "#000000",
+    "outlineColor": "#000000",
+    "textOutlineColor": "#000000",
+    "outlineGradient": false,
+    "typewriterText": false,
+    "glitchText": false,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 60,
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F258409328%2Fpfp_1788162386482_c3709ca6.jpg",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F258409328%2Fbackground_1788162387378_07f86fbe.jpg",
+    "brandImage": "",
+    "brandSprite": null
   }
 ]
