@@ -1049,9 +1049,9 @@
     "textGradientStart": "#ffffff",
     "textGradientEnd": "#78c882",
     "spinSpeed": 60,
-    "tagWidth": 320,
+    "tagWidth": 310,
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8925287227%2Fpfp_1788142880455_bd67d4f4.png",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8925287227%2Fbackground_1788142962764_3f6fac3f.jpg",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8925287227%2Fbackground_1788143109074_b9056746.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8925287227%2Fbrand_1788142884831_94b0f71c.jpg"
   }
 ]
