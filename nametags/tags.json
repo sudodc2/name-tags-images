@@ -1030,5 +1030,37 @@
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F2829654187%2Fbackground_1788126903733_226df1d7.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F2829654187%2Fbrand_1788126904787_c254f89c.jpg",
     "pfpSprite": null
+  },
+  {
+    "userId": "8925287227",
+    "displayName": "Quomy",
+    "username": "Russian Friend",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#000000",
+    "textOutlineColor": "#808080",
+    "outlineGradient": false,
+    "typewriterText": false,
+    "glitchText": false,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 60,
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8925287227%2Fpfp_1788142880455_bd67d4f4.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8925287227%2Fbackground_1788142882462_b6a13a34.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F8925287227%2Fbrand_1788142884831_94b0f71c.jpg",
+    "backgroundSprite": {
+      "frames": 20,
+      "frameWidth": 341,
+      "frameHeight": 76,
+      "cols": 2,
+      "rows": 10,
+      "fps": 33.333333333333336,
+      "duration": 0.6
+    }
   }
 ]
