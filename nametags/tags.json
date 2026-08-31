@@ -1100,5 +1100,47 @@
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F331617394%2Fpfp_1788164923505_ba5b6351.png",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F331617394%2Fbackground_1788164924632_edd60527.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F331617394%2Fbrand_1788164925448_128c9023.jpg"
+  },
+  {
+    "userId": "10587074916",
+    "displayName": "MARIO",
+    "username": "@Mario826264WALT",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#8000ff",
+    "textOutlineColor": "#000000",
+    "outlineGradient": true,
+    "typewriterText": false,
+    "glitchText": true,
+    "glowEnabled": false,
+    "glowColor": "#78c882",
+    "textGradient": false,
+    "textGradientStart": "#ffffff",
+    "textGradientEnd": "#78c882",
+    "spinSpeed": 60,
+    "tagWidth": 320,
+    "pfpImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10587074916%2Fbackground_1788211598023_a37fcf7d.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10587074916%2Fbrand_1788211598332_74446604.png",
+    "pfpSprite": null,
+    "backgroundSprite": {
+      "frames": 20,
+      "frameWidth": 341,
+      "frameHeight": 76,
+      "cols": 2,
+      "rows": 10,
+      "fps": 25,
+      "duration": 0.8
+    },
+    "brandSprite": {
+      "frames": 49,
+      "frameWidth": 109,
+      "frameHeight": 109,
+      "cols": 7,
+      "rows": 7,
+      "fps": 25,
+      "duration": 1.96
+    }
   }
 ]
