@@ -189,7 +189,7 @@
   },
   {
     "userId": "10650684936",
-    "displayName": "OWNER ",
+    "displayName": "Hashbrown ",
     "username": "@MelodyCrafterAlt",
     "textColor": "#ffffff",
     "font": "GothamBold",
@@ -199,16 +199,44 @@
     "typewriterText": false,
     "glitchText": true,
     "tagWidth": 320,
-    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fpfp_1787625396098.jpg",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1787625396314.jpg",
-    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbrand_1787625396508.jpg",
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fpfp_1788219142563_ceff9b71.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1788219142928_c684bec9.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbrand_1788219143240_05cd931f.png",
     "glowEnabled": false,
     "glowColor": "#ffffff",
     "textGradient": false,
     "textGradientStart": "#0400ff",
     "textGradientEnd": "#ff0000",
     "spinTransition": true,
-    "spinSpeed": 90
+    "spinSpeed": 90,
+    "backgroundSprite": {
+      "frames": 20,
+      "frameWidth": 341,
+      "frameHeight": 76,
+      "cols": 2,
+      "rows": 10,
+      "fps": 33.333333333333336,
+      "duration": 0.6
+    },
+    "textOutlineColor": "#000000",
+    "pfpSprite": {
+      "frames": 64,
+      "frameWidth": 96,
+      "frameHeight": 96,
+      "cols": 8,
+      "rows": 8,
+      "fps": 33.333333333333336,
+      "duration": 1.92
+    },
+    "brandSprite": {
+      "frames": 49,
+      "frameWidth": 109,
+      "frameHeight": 109,
+      "cols": 7,
+      "rows": 7,
+      "fps": 33.333333333333336,
+      "duration": 1.47
+    }
   },
   {
     "userId": "1439184810",
