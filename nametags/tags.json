@@ -1072,10 +1072,18 @@
     "textGradientStart": "#ffffff",
     "textGradientEnd": "#78c882",
     "spinSpeed": 60,
-    "tagWidth": 240,
-    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F258409328%2Fpfp_1788162386482_c3709ca6.jpg",
+    "tagWidth": 120,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F258409328%2Fpfp_1788162521600_043ab874.png",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F258409328%2Fbackground_1788162387378_07f86fbe.jpg",
-    "brandImage": "",
-    "brandSprite": null
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F258409328%2Fbrand_1788162522458_4bd0c57b.jpg",
+    "pfpSprite": {
+      "frames": 1,
+      "frameWidth": 768,
+      "frameHeight": 768,
+      "cols": 1,
+      "rows": 1,
+      "fps": 10,
+      "duration": 0.1
+    }
   }
 ]
