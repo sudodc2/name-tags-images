@@ -1072,7 +1072,7 @@
     "textGradientStart": "#ffffff",
     "textGradientEnd": "#78c882",
     "spinSpeed": 60,
-    "tagWidth": 120,
+    "tagWidth": 320,
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F258409328%2Fpfp_1788162543924_87745d19.jpeg",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F258409328%2Fbackground_1788162387378_07f86fbe.jpg",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F258409328%2Fbrand_1788162522458_4bd0c57b.jpg"
