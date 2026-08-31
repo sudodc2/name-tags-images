@@ -422,16 +422,16 @@
     "spinSpeed": 90,
     "tagWidth": 200,
     "pfpImage": "",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F533907091%2Fbackground_1787549692379_2040-purple_sprite.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F533907091%2Fbackground_1788164829963_f5bd1514.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F533907091%2Fbrand_1787550300465_7b092550817165757f25d379e8564c2d.jpg",
     "backgroundSprite": {
-      "frames": 10,
-      "frameWidth": 512,
-      "frameHeight": 115,
+      "frames": 11,
+      "frameWidth": 384,
+      "frameHeight": 86,
       "cols": 2,
-      "rows": 5,
-      "fps": 5,
-      "duration": 2
+      "rows": 6,
+      "fps": 8.333333333333332,
+      "duration": 1.32
     },
     "textOutlineColor": "#000000"
   },
