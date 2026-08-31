@@ -200,7 +200,7 @@
     "glitchText": true,
     "tagWidth": 320,
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fpfp_1788219142563_ceff9b71.png",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1788219142928_c684bec9.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1788219253775_bfde7732.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbrand_1788219143240_05cd931f.png",
     "glowEnabled": false,
     "glowColor": "#ffffff",
@@ -215,8 +215,8 @@
       "frameHeight": 76,
       "cols": 2,
       "rows": 10,
-      "fps": 33.333333333333336,
-      "duration": 0.6
+      "fps": 1,
+      "duration": 20
     },
     "textOutlineColor": "#000000",
     "pfpSprite": {
