@@ -1189,7 +1189,7 @@
     "outlineColor": "#000000",
     "textOutlineColor": "#000000",
     "tagWidth": 320,
-    "tagShape": "pill",
+    "tagShape": "badge",
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11384149275%2Fpfp_1788262437945_a848fad5.jpg",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11384149275%2Fbackground_1788262553459_fd59bbef.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11384149275%2Fbrand_1788262438680_e10dc7a7.jpg",
