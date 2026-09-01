@@ -1190,7 +1190,7 @@
     "textOutlineColor": "#000000",
     "tagWidth": 150,
     "tagShape": "badge",
-    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11384149275%2Fpfp_1788262437945_a848fad5.jpg",
+    "pfpImage": "",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11384149275%2Fbackground_1788262585713_7cd23b3c.jpg",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11384149275%2Fbrand_1788262438680_e10dc7a7.jpg",
     "pfpSprite": null,
