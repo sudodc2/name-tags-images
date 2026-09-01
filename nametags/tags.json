@@ -1178,5 +1178,23 @@
       "fps": 25,
       "duration": 1.96
     }
+  },
+  {
+    "userId": "11384149275",
+    "displayName": "Korv",
+    "username": "",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#000000",
+    "textOutlineColor": "#000000",
+    "tagWidth": 320,
+    "tagShape": "rounded",
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11384149275%2Fpfp_1788262437945_a848fad5.jpg",
+    "backgroundImage": "",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11384149275%2Fbrand_1788262438680_e10dc7a7.jpg",
+    "pfpSprite": null,
+    "backgroundSprite": null,
+    "brandSprite": null
   }
 ]
