@@ -199,9 +199,9 @@
     "typewriterText": false,
     "glitchText": true,
     "tagWidth": 320,
-    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fpfp_1788219330141_936082fc.png",
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fpfp_1788314911506_cfbe3b53.png",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbackground_1788314899094_7e45e78a.png",
-    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbrand_1788219143240_05cd931f.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbrand_1788314911964_8215d15f.png",
     "glowEnabled": false,
     "glowColor": "#ffffff",
     "textGradient": false,
@@ -234,8 +234,8 @@
       "frameHeight": 109,
       "cols": 7,
       "rows": 7,
-      "fps": 33.333333333333336,
-      "duration": 1.47
+      "fps": 2.45,
+      "duration": 20
     },
     "parallaxEnabled": true,
     "parallaxAmount": 20,
