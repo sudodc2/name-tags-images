@@ -1214,5 +1214,34 @@
     "pfpSprite": null,
     "backgroundSprite": null,
     "brandSprite": null
+  },
+  {
+    "userId": "10936905094",
+    "displayName": "NUISANCE",
+    "username": "Cumslut",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#000000",
+    "textOutlineColor": "#000000",
+    "tagWidth": 320,
+    "pfpImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10936905094%2Fbackground_1788439227035_669e9589.png",
+    "brandImage": "",
+    "pfpSprite": null,
+    "backgroundSprite": {
+      "frames": 20,
+      "frameWidth": 341,
+      "frameHeight": 76,
+      "cols": 2,
+      "rows": 10,
+      "fps": 10,
+      "duration": 2
+    },
+    "brandSprite": null,
+    "textGradient": false,
+    "textGradientStart": "#ff00cc",
+    "textGradientEnd": "#3333ff",
+    "glitchText": false
   }
 ]
