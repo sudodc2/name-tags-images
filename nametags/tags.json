@@ -1144,7 +1144,7 @@
     "textColor": "#ffffff",
     "font": "GothamBold",
     "tagColor": "#000000",
-    "outlineColor": "#8000ff",
+    "outlineColor": "#000000",
     "textOutlineColor": "#000000",
     "outlineGradient": true,
     "typewriterText": false,
