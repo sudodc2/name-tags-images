@@ -204,7 +204,7 @@
     "brandImage": "",
     "glowEnabled": false,
     "glowColor": "#ffffff",
-    "textGradient": false,
+    "textGradient": true,
     "textGradientStart": "#0400ff",
     "textGradientEnd": "#ff0000",
     "spinTransition": true,
