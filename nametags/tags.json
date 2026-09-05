@@ -204,7 +204,7 @@
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10650684936%2Fbrand_1788647458984_e2cd112d.jpg",
     "glowEnabled": false,
     "glowColor": "#ffffff",
-    "textGradient": true,
+    "textGradient": false,
     "textGradientStart": "#0400ff",
     "textGradientEnd": "#ff0000",
     "spinTransition": true,
