@@ -1248,5 +1248,26 @@
     "textGradientStart": "#ffffff",
     "textGradientEnd": "#ffffff",
     "glitchText": true
+  },
+  {
+    "userId": "11440853334",
+    "displayName": "Reaper",
+    "username": "@REAPER_20268",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#000000",
+    "textOutlineColor": "#000000",
+    "tagWidth": 320,
+    "pfpImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11440853334%2Fbackground_1788736117447_f32e56b6.jpg",
+    "brandImage": "",
+    "pfpSprite": null,
+    "backgroundSprite": null,
+    "brandSprite": null,
+    "textGradient": false,
+    "textGradientStart": "#ff00cc",
+    "textGradientEnd": "#3333ff",
+    "glitchText": true
   }
 ]
