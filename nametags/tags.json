@@ -325,7 +325,7 @@
   },
   {
     "userId": "309670106",
-    "displayName": "YANI ‎",
+    "displayName": "I LOVE KIDS ‎",
     "username": "@47wy",
     "textColor": "#ffffff",
     "font": "GothamBold",
@@ -352,7 +352,10 @@
     "textGradient": false,
     "textGradientStart": "#ffffff",
     "textGradientEnd": "#78c882",
-    "spinSpeed": 90
+    "spinSpeed": 90,
+    "textOutlineColor": "#000000",
+    "pfpSprite": null,
+    "brandSprite": null
   },
   {
     "userId": "11249558049",
