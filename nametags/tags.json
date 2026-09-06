@@ -220,7 +220,11 @@
     "particleCount": 3,
     "tiltEnabled": true,
     "tiltAmount": 10,
-    "tagShape": "rounded"
+    "tagShape": "rounded",
+    "shineSweep": false,
+    "borderGradient": true,
+    "borderGradientStart": "#78c882",
+    "borderGradientEnd": "#ff4d4d"
   },
   {
     "userId": "1439184810",
