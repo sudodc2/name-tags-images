@@ -1358,5 +1358,28 @@
     "glitchText": true,
     "borderGradient": false,
     "borderGradientEnd": "#ffffff"
+  },
+  {
+    "userId": "10723113020",
+    "displayName": "Vixxie ",
+    "username": "@Kiara_lovix",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#e1a3cd",
+    "textOutlineColor": "#000000",
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10723113020%2Fpfp_1788796972733_7e48d0d3.jpg",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10723113020%2Fbackground_1788796972957_e587a5f2.jpg",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10723113020%2Fbrand_1788796973200_543babf4.jpg",
+    "pfpSprite": null,
+    "backgroundSprite": null,
+    "brandSprite": null,
+    "textGradient": false,
+    "textGradientStart": "#ff00cc",
+    "textGradientEnd": "#3333ff",
+    "glitchText": true,
+    "borderGradient": false,
+    "borderGradientEnd": "#ffffff"
   }
 ]
