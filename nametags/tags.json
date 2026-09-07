@@ -232,7 +232,7 @@
     "shineSweep": false,
     "borderGradient": true,
     "borderGradientStart": "#78c882",
-    "borderGradientEnd": "#00ff91"
+    "borderGradientEnd": "#4400ff"
   },
   {
     "userId": "1439184810",
@@ -340,7 +340,7 @@
     "glitchText": true,
     "tagWidth": 320,
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10985949885%2Fpfp_1787507486674_lilies.jpg",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10985949885%2Fbackground_1787507487200_download_sprite.png",
+    "backgroundImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0CCzRnWi0wzwF--qj0UxLuswnlEx0og043xP_A1ISDw&s=10",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10985949885%2Fbrand_1787507487451_lilies.jpg",
     "backgroundSprite": {
       "frames": 42,
@@ -359,7 +359,9 @@
     "spinSpeed": 90,
     "textOutlineColor": "#000000",
     "pfpSprite": null,
-    "brandSprite": null
+    "brandSprite": null,
+    "borderGradient": true,
+    "borderGradientEnd": "#ffffff"
   },
   {
     "userId": "11249558049",
