@@ -833,7 +833,7 @@
   },
   {
     "userId": "11575027499",
-    "displayName": "AMOUR",
+    "displayName": "AMOUR ",
     "username": "@amour_altt",
     "textColor": "#ff0000",
     "font": "GothamBold",
@@ -853,7 +853,11 @@
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11575027499%2Fbackground_1787695701502_90891e45.jpg",
     "brandImage": "",
     "pfpSprite": null,
-    "brandSprite": null
+    "brandSprite": null,
+    "textOutlineColor": "#000000",
+    "borderGradient": true,
+    "borderGradientEnd": "#ffffff",
+    "backgroundSprite": null
   },
   {
     "userId": "11237769348",
