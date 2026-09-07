@@ -1245,16 +1245,18 @@
     "outlineColor": "#e1a3cd",
     "textOutlineColor": "#000000",
     "tagWidth": 320,
-    "pfpImage": "",
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10804689897%2Fpfp_1788742664230_5f37cec8.jpg",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10804689897%2Fbackground_1788735111166_de21e796.jpg",
-    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10804689897%2Fbrand_1788735111401_fbda799c.jpg",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10804689897%2Fbrand_1788742664464_aeb2041a.jpg",
     "pfpSprite": null,
     "backgroundSprite": null,
     "brandSprite": null,
     "textGradient": false,
     "textGradientStart": "#ffffff",
     "textGradientEnd": "#ffffff",
-    "glitchText": true
+    "glitchText": true,
+    "borderGradient": false,
+    "borderGradientEnd": "#ffffff"
   },
   {
     "userId": "11440853334",
