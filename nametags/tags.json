@@ -689,9 +689,9 @@
     }
   },
   {
-    "userId": "8939106149",
+    "userId": "8700975811",
     "displayName": "MARI_BABY",
-    "username": "@baconglobenMas",
+    "username": "@Rando_TTKO",
     "textColor": "#000000",
     "font": "GothamBold",
     "tagColor": "#000000",
@@ -717,7 +717,12 @@
       "rows": 10,
       "fps": 20,
       "duration": 1
-    }
+    },
+    "textOutlineColor": "#000000",
+    "borderGradient": true,
+    "borderGradientEnd": "#ffffff",
+    "pfpSprite": null,
+    "brandSprite": null
   },
   {
     "userId": "9476288360",
