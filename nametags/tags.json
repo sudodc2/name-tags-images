@@ -339,9 +339,9 @@
     "typewriterText": false,
     "glitchText": true,
     "tagWidth": 320,
-    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10985949885%2Fpfp_1787507486674_lilies.jpg",
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F309670106%2Fpfp_1788817662505_b66fb13b.jpg",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F309670106%2Fbackground_1788817456142_f4f32291.png",
-    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F309670106%2Fbrand_1788817456499_1cbcf474.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F309670106%2Fbrand_1788817662704_124fb70d.jpg",
     "backgroundSprite": {
       "frames": 20,
       "frameWidth": 341,
@@ -359,15 +359,7 @@
     "spinSpeed": 90,
     "textOutlineColor": "#000000",
     "pfpSprite": null,
-    "brandSprite": {
-      "frames": 32,
-      "frameWidth": 128,
-      "frameHeight": 128,
-      "cols": 6,
-      "rows": 6,
-      "fps": 14.09691629955947,
-      "duration": 2.27
-    },
+    "brandSprite": null,
     "borderGradient": true,
     "borderGradientEnd": "#ffffff"
   },
