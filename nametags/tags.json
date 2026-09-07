@@ -1319,5 +1319,44 @@
     "glitchText": true,
     "borderGradient": false,
     "borderGradientEnd": "#ffffff"
+  },
+  {
+    "userId": "633086933",
+    "displayName": "SLAM",
+    "username": "@gdog113011",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#9862fe",
+    "textOutlineColor": "#000000",
+    "tagWidth": 320,
+    "pfpImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F633086933%2Fbackground_1788796832212_877ba770.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F633086933%2Fbrand_1788796832604_931f8f71.png",
+    "pfpSprite": null,
+    "backgroundSprite": {
+      "frames": 20,
+      "frameWidth": 341,
+      "frameHeight": 76,
+      "cols": 2,
+      "rows": 10,
+      "fps": 28.169014084507044,
+      "duration": 0.71
+    },
+    "brandSprite": {
+      "frames": 49,
+      "frameWidth": 109,
+      "frameHeight": 109,
+      "cols": 7,
+      "rows": 7,
+      "fps": 29.878048780487806,
+      "duration": 1.64
+    },
+    "textGradient": false,
+    "textGradientStart": "#ff00cc",
+    "textGradientEnd": "#3333ff",
+    "glitchText": true,
+    "borderGradient": false,
+    "borderGradientEnd": "#ffffff"
   }
 ]
