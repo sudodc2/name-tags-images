@@ -1291,10 +1291,18 @@
     "outlineColor": "#009f9f",
     "textOutlineColor": "#000000",
     "tagWidth": 320,
-    "pfpImage": "",
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F4086424549%2Fpfp_1788755045982_be9cb1a5.png",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F4086424549%2Fbackground_1788755033823_41007f9e.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F4086424549%2Fbrand_1788754548269_a3f83976.png",
-    "pfpSprite": null,
+    "pfpSprite": {
+      "frames": 64,
+      "frameWidth": 96,
+      "frameHeight": 96,
+      "cols": 8,
+      "rows": 8,
+      "fps": 32,
+      "duration": 2
+    },
     "backgroundSprite": {
       "frames": 20,
       "frameWidth": 341,
