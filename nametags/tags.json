@@ -194,7 +194,7 @@
     "textColor": "#ffffff",
     "font": "GothamBold",
     "tagColor": "#000000",
-    "outlineColor": "#ff0000",
+    "outlineColor": "#ffffff",
     "outlineGradient": true,
     "typewriterText": false,
     "glitchText": true,
@@ -232,7 +232,7 @@
     "shineSweep": false,
     "borderGradient": true,
     "borderGradientStart": "#78c882",
-    "borderGradientEnd": "#c800ff"
+    "borderGradientEnd": "#858585"
   },
   {
     "userId": "1439184810",
