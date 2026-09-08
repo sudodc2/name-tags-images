@@ -1409,20 +1409,36 @@
     "outlineColor": "#ffffff",
     "textOutlineColor": "#000000",
     "tagWidth": 280,
-    "pfpImage": "",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F143708671%2Fbackground_1788828978942_f1c0f857.png",
-    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F143708671%2Fbrand_1788815175458_c764a092.jpg",
-    "pfpSprite": null,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F143708671%2Fpfp_1788880398347_2e6b2fe0.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F143708671%2Fbackground_1788880398715_34286b61.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F143708671%2Fbrand_1788880399199_47fe0f8e.png",
+    "pfpSprite": {
+      "frames": 64,
+      "frameWidth": 96,
+      "frameHeight": 96,
+      "cols": 8,
+      "rows": 8,
+      "fps": 33.333333333333336,
+      "duration": 1.92
+    },
     "backgroundSprite": {
       "frames": 20,
       "frameWidth": 341,
       "frameHeight": 76,
       "cols": 2,
       "rows": 10,
-      "fps": 14.285714285714286,
-      "duration": 1.4
+      "fps": 33.333333333333336,
+      "duration": 0.6
     },
-    "brandSprite": null,
+    "brandSprite": {
+      "frames": 49,
+      "frameWidth": 109,
+      "frameHeight": 109,
+      "cols": 7,
+      "rows": 7,
+      "fps": 33.333333333333336,
+      "duration": 1.47
+    },
     "textGradient": false,
     "textGradientStart": "#ff00cc",
     "textGradientEnd": "#3333ff",
