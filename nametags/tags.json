@@ -1445,5 +1445,36 @@
     "glitchText": true,
     "borderGradient": false,
     "borderGradientEnd": "#ffffff"
+  },
+  {
+    "userId": "6181701477",
+    "displayName": "ZAZA",
+    "username": "@AZAHbug",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#e1a3cd",
+    "textOutlineColor": "#000000",
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F6181701477%2Fpfp_1788886465078_4cbe268e.jpg",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F6181701477%2Fbackground_1788886465407_e83388f4.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F6181701477%2Fbrand_1788886465715_0e2bc9a4.jpg",
+    "pfpSprite": null,
+    "backgroundSprite": {
+      "frames": 20,
+      "frameWidth": 341,
+      "frameHeight": 76,
+      "cols": 2,
+      "rows": 10,
+      "fps": 25,
+      "duration": 0.8
+    },
+    "brandSprite": null,
+    "textGradient": false,
+    "textGradientStart": "#ff00cc",
+    "textGradientEnd": "#3333ff",
+    "glitchText": false,
+    "borderGradient": false,
+    "borderGradientEnd": "#ffffff"
   }
 ]
