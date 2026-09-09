@@ -109,18 +109,26 @@
     "typewriterText": false,
     "glitchText": true,
     "pfpImage": "",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fnew_1787436526339%2Fbackground_1787437681695_xb96qFmromu7_sprite.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10207307079%2Fbackground_1788915960861_ae0368f9.png",
     "brandImage": "",
     "backgroundSprite": {
-      "frames": 15,
-      "frameWidth": 512,
-      "frameHeight": 115,
+      "frames": 20,
+      "frameWidth": 341,
+      "frameHeight": 76,
       "cols": 2,
-      "rows": 8,
-      "fps": 10,
-      "duration": 1.5
+      "rows": 10,
+      "fps": 18.18181818181818,
+      "duration": 1.1
     },
-    "tagWidth": 380
+    "tagWidth": 380,
+    "textOutlineColor": "#000000",
+    "textGradient": false,
+    "textGradientStart": "#ff00cc",
+    "textGradientEnd": "#3333ff",
+    "borderGradient": true,
+    "borderGradientEnd": "#ffffff",
+    "pfpSprite": null,
+    "brandSprite": null
   },
   {
     "userId": "1670139368",
