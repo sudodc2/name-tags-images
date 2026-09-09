@@ -1515,5 +1515,36 @@
     "glitchText": true,
     "borderGradient": true,
     "borderGradientEnd": "#474747"
+  },
+  {
+    "userId": "9303416937",
+    "displayName": "KIKO",
+    "username": "@Robloxianw3s1j0e2o",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#000000",
+    "textOutlineColor": "#000000",
+    "tagWidth": 310,
+    "pfpImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9303416937%2Fbackground_1788974759435_836be18f.png",
+    "brandImage": "",
+    "pfpSprite": null,
+    "backgroundSprite": {
+      "frames": 20,
+      "frameWidth": 341,
+      "frameHeight": 76,
+      "cols": 2,
+      "rows": 10,
+      "fps": 12.5,
+      "duration": 1.6
+    },
+    "brandSprite": null,
+    "textGradient": false,
+    "textGradientStart": "#ff00cc",
+    "textGradientEnd": "#3333ff",
+    "glitchText": true,
+    "borderGradient": true,
+    "borderGradientEnd": "#6b6b6b"
   }
 ]
