@@ -1517,17 +1517,17 @@
     "borderGradientEnd": "#474747"
   },
   {
-    "userId": "9303416937",
-    "displayName": "KIKO",
-    "username": "@Robloxianw3s1j0e2o",
+    "userId": "11506817656",
+    "displayName": "INTERNETPUPPYBOY",
+    "username": "@InternetPuppyboy",
     "textColor": "#ffffff",
     "font": "GothamBold",
     "tagColor": "#000000",
-    "outlineColor": "#000000",
+    "outlineColor": "#ff0000",
     "textOutlineColor": "#000000",
-    "tagWidth": 310,
+    "tagWidth": 320,
     "pfpImage": "",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F9303416937%2Fbackground_1788974759435_836be18f.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11506817656%2Fbackground_1788974907220_b7fef62e.png",
     "brandImage": "",
     "pfpSprite": null,
     "backgroundSprite": {
@@ -1536,8 +1536,8 @@
       "frameHeight": 76,
       "cols": 2,
       "rows": 10,
-      "fps": 12.5,
-      "duration": 1.6
+      "fps": 3.3333333333333335,
+      "duration": 6
     },
     "brandSprite": null,
     "textGradient": false,
@@ -1545,6 +1545,6 @@
     "textGradientEnd": "#3333ff",
     "glitchText": true,
     "borderGradient": true,
-    "borderGradientEnd": "#6b6b6b"
+    "borderGradientEnd": "#ffffff"
   }
 ]
