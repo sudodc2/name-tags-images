@@ -1585,5 +1585,28 @@
     "glitchText": true,
     "borderGradient": true,
     "borderGradientEnd": "#ffffff"
+  },
+  {
+    "userId": "7561626663",
+    "displayName": "Zenvy",
+    "username": "@Ivyonanotherlevel",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#d400ff",
+    "textOutlineColor": "#000000",
+    "tagWidth": 320,
+    "pfpImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F7561626663%2Fbackground_1789084008309_fff8d581.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F7561626663%2Fbrand_1789084009475_52a59b7b.png",
+    "pfpSprite": null,
+    "backgroundSprite": null,
+    "brandSprite": null,
+    "textGradient": false,
+    "textGradientStart": "#ff00cc",
+    "textGradientEnd": "#3333ff",
+    "glitchText": false,
+    "borderGradient": true,
+    "borderGradientEnd": "#ffffff"
   }
 ]
