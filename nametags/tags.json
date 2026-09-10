@@ -1546,5 +1546,44 @@
     "glitchText": true,
     "borderGradient": true,
     "borderGradientEnd": "#ffffff"
+  },
+  {
+    "userId": "10985949885",
+    "displayName": "New User",
+    "username": "@loveattemptt",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#5900ff",
+    "textOutlineColor": "#000000",
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10985949885%2Fpfp_1789070810699_250598c7.jpg",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10985949885%2Fbackground_1789070811910_8d1d98ee.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10985949885%2Fbrand_1789070813042_17915750.png",
+    "pfpSprite": null,
+    "backgroundSprite": {
+      "frames": 20,
+      "frameWidth": 341,
+      "frameHeight": 76,
+      "cols": 2,
+      "rows": 10,
+      "fps": 13.986013986013987,
+      "duration": 1.43
+    },
+    "brandSprite": {
+      "frames": 32,
+      "frameWidth": 128,
+      "frameHeight": 128,
+      "cols": 6,
+      "rows": 6,
+      "fps": 14.09691629955947,
+      "duration": 2.27
+    },
+    "textGradient": false,
+    "textGradientStart": "#ff00cc",
+    "textGradientEnd": "#3333ff",
+    "glitchText": true,
+    "borderGradient": true,
+    "borderGradientEnd": "#ffffff"
   }
 ]
