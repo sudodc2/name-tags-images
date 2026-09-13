@@ -38,6 +38,20 @@
         "fps": 25,
         "duration": 0.6
       }
+    },
+    {
+      "name": "Smoke",
+      "url": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fglobal%2Fbackground_1789338358933_f67e2c60.png",
+      "file": "Smoke_sprite.png",
+      "sprite": {
+        "frames": 15,
+        "frameWidth": 334,
+        "frameHeight": 204,
+        "cols": 3,
+        "rows": 5,
+        "fps": 7.894736842105264,
+        "duration": 1.9
+      }
     }
   ]
 }
