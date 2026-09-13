@@ -24,6 +24,20 @@
         "fps": 25,
         "duration": 0.6
       }
+    },
+    {
+      "name": "Anime Text",
+      "url": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fglobal%2Fbackground_1789337675331_576a191f.png",
+      "file": "Anime_text_sprite.png",
+      "sprite": {
+        "frames": 15,
+        "frameWidth": 334,
+        "frameHeight": 204,
+        "cols": 3,
+        "rows": 5,
+        "fps": 12.096774193548388,
+        "duration": 1.24
+      }
     }
   ]
 }
