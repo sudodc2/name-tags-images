@@ -13,8 +13,17 @@
     },
     {
       "name": "Ai Army",
-      "url": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fglobal%2Fbackground_1789337167367_26be4993.gif",
-      "file": "ai_army.gif"
+      "url": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fglobal%2Fbackground_1789337481492_be9894b6.png",
+      "file": "ai_army_sprite.png",
+      "sprite": {
+        "frames": 15,
+        "frameWidth": 334,
+        "frameHeight": 204,
+        "cols": 3,
+        "rows": 5,
+        "fps": 25,
+        "duration": 0.6
+      }
     }
   ]
 }
