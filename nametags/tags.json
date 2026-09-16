@@ -1662,5 +1662,52 @@
     "glitchText": true,
     "borderGradient": true,
     "borderGradientEnd": "#ffffff"
+  },
+  {
+    "userId": "11193603826",
+    "displayName": "x9k",
+    "username": "@furyrAin620",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#ff0000",
+    "textOutlineColor": "#000000",
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11193603826%2Fpfp_1789527080100_a71887db.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11193603826%2Fbackground_1789527080460_756f59c4.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11193603826%2Fbrand_1789527080853_cf4b1f31.png",
+    "pfpSprite": {
+      "frames": 55,
+      "frameWidth": 128,
+      "frameHeight": 128,
+      "cols": 7,
+      "rows": 8,
+      "fps": 16.666666666666668,
+      "duration": 3.3
+    },
+    "backgroundSprite": {
+      "frames": 42,
+      "frameWidth": 325,
+      "frameHeight": 73,
+      "cols": 3,
+      "rows": 14,
+      "fps": 4.463336875664187,
+      "duration": 9.41
+    },
+    "brandSprite": {
+      "frames": 55,
+      "frameWidth": 128,
+      "frameHeight": 128,
+      "cols": 7,
+      "rows": 8,
+      "fps": 16.666666666666668,
+      "duration": 3.3
+    },
+    "textGradient": false,
+    "textGradientStart": "#ff00cc",
+    "textGradientEnd": "#3333ff",
+    "glitchText": true,
+    "borderGradient": true,
+    "borderGradientEnd": "#ffffff"
   }
 ]
