@@ -1732,5 +1732,36 @@
     "glitchText": false,
     "borderGradient": true,
     "borderGradientEnd": "#ffffff"
+  },
+  {
+    "userId": "5138648569",
+    "displayName": "Taie",
+    "username": "@T4ieDc",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#7300ff",
+    "textOutlineColor": "#000000",
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F5138648569%2Fpfp_1789527587131_bbdd9de6.jfif",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F5138648569%2Fbackground_1789527587646_303494c8.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F5138648569%2Fbrand_1789527588025_8b965896.jfif",
+    "pfpSprite": null,
+    "backgroundSprite": {
+      "frames": 37,
+      "frameWidth": 341,
+      "frameHeight": 76,
+      "cols": 3,
+      "rows": 13,
+      "fps": 25,
+      "duration": 1.48
+    },
+    "brandSprite": null,
+    "textGradient": false,
+    "textGradientStart": "#ff00cc",
+    "textGradientEnd": "#3333ff",
+    "glitchText": false,
+    "borderGradient": true,
+    "borderGradientEnd": "#ffffff"
   }
 ]
