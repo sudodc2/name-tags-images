@@ -568,7 +568,11 @@
       "fps": 24.324324324324323,
       "duration": 1.11
     },
-    "textOutlineColor": "#ffffff"
+    "textOutlineColor": "#ffffff",
+    "borderGradient": true,
+    "borderGradientEnd": "#ffffff",
+    "pfpSprite": null,
+    "brandSprite": null
   },
   {
     "userId": "5808698123",
