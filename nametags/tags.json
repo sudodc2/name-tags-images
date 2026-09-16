@@ -1709,5 +1709,28 @@
     "glitchText": true,
     "borderGradient": true,
     "borderGradientEnd": "#ffffff"
+  },
+  {
+    "userId": "7461833044",
+    "displayName": "LT",
+    "username": "@Randoma316",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#6b6b6b",
+    "textOutlineColor": "#000000",
+    "tagWidth": 320,
+    "pfpImage": "",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F7461833044%2Fbackground_1789527222278_7ceeb75e.jpg",
+    "brandImage": "",
+    "pfpSprite": null,
+    "backgroundSprite": null,
+    "brandSprite": null,
+    "textGradient": false,
+    "textGradientStart": "#ff00cc",
+    "textGradientEnd": "#3333ff",
+    "glitchText": false,
+    "borderGradient": true,
+    "borderGradientEnd": "#ffffff"
   }
 ]
