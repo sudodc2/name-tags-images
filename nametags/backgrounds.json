@@ -52,6 +52,34 @@
         "fps": 7.894736842105264,
         "duration": 1.9
       }
+    },
+    {
+      "name": "Finger Cross",
+      "url": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fglobal%2Fbackground_1789670657837_7df40fed.png",
+      "file": "Finger_cross_sprite.png",
+      "sprite": {
+        "frames": 12,
+        "frameWidth": 341,
+        "frameHeight": 209,
+        "cols": 3,
+        "rows": 4,
+        "fps": 10,
+        "duration": 1.2
+      }
+    },
+    {
+      "name": "Tear Drop",
+      "url": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2Fglobal%2Fbackground_1789670667998_9b4429bd.png",
+      "file": "Tear_drop_sprite.png",
+      "sprite": {
+        "frames": 15,
+        "frameWidth": 334,
+        "frameHeight": 204,
+        "cols": 3,
+        "rows": 5,
+        "fps": 3.658536585365854,
+        "duration": 4.1
+      }
     }
   ]
 }
