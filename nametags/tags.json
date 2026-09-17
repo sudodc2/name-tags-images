@@ -166,7 +166,7 @@
     "outlineGradient": true,
     "typewriterText": false,
     "glitchText": true,
-    "tagWidth": 480,
+    "tagWidth": 300,
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10766660977%2Fpfp_1787446657386_discord_avatar_decoration_animated_1787446639755_sprite.png",
     "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10766660977%2Fbackground_1787446210383_giphy_sprite.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F10766660977%2Fbrand_1787447031107_c60a0ed6914e3b87cb14662cadf89719.webp",
@@ -193,7 +193,11 @@
     "textGradient": false,
     "textGradientStart": "#ffffff",
     "textGradientEnd": "#78c882",
-    "spinSpeed": 90
+    "spinSpeed": 90,
+    "textOutlineColor": "#000000",
+    "borderGradient": true,
+    "borderGradientEnd": "#ffffff",
+    "brandSprite": null
   },
   {
     "userId": "10650684936",
