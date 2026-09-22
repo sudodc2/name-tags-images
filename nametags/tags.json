@@ -1426,7 +1426,7 @@
     "textOutlineColor": "#000000",
     "tagWidth": 280,
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F143708671%2Fpfp_1788880398347_2e6b2fe0.png",
-    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F143708671%2Fbackground_1788880398715_34286b61.png",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F143708671%2Fbackground_1790042617995_a39b6fd0.png",
     "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F143708671%2Fbrand_1788880399199_47fe0f8e.png",
     "pfpSprite": {
       "frames": 64,
@@ -1438,13 +1438,13 @@
       "duration": 1.92
     },
     "backgroundSprite": {
-      "frames": 20,
-      "frameWidth": 341,
-      "frameHeight": 76,
+      "frames": 19,
+      "frameWidth": 455,
+      "frameHeight": 102,
       "cols": 2,
       "rows": 10,
-      "fps": 33.333333333333336,
-      "duration": 0.6
+      "fps": 10,
+      "duration": 1.9
     },
     "brandSprite": {
       "frames": 49,
