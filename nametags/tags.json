@@ -1810,5 +1810,28 @@
     "glitchText": false,
     "borderGradient": true,
     "borderGradientEnd": "#683636"
+  },
+  {
+    "userId": "11758421950",
+    "displayName": "Hashbrown(1-888)",
+    "username": "@7_z794",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#ffffff",
+    "textOutlineColor": "#000000",
+    "tagWidth": 330,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11758421950%2Fpfp_1791234331566_4e929e16.avif",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11758421950%2Fbackground_1791234331812_5d29814f.png",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11758421950%2Fbrand_1791234332013_88f7b582.avif",
+    "pfpSprite": null,
+    "backgroundSprite": null,
+    "brandSprite": null,
+    "textGradient": false,
+    "textGradientStart": "#ff00cc",
+    "textGradientEnd": "#3333ff",
+    "glitchText": true,
+    "borderGradient": true,
+    "borderGradientEnd": "#ff0000"
   }
 ]
