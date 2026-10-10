@@ -1833,5 +1833,28 @@
     "glitchText": true,
     "borderGradient": true,
     "borderGradientEnd": "#ff0000"
+  },
+  {
+    "userId": "11086710020",
+    "displayName": "13",
+    "username": "theyluv_lawmadeblood",
+    "textColor": "#ffffff",
+    "font": "GothamBold",
+    "tagColor": "#000000",
+    "outlineColor": "#ff0000",
+    "textOutlineColor": "#000000",
+    "tagWidth": 320,
+    "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11086710020%2Fpfp_1791622641188_009a20d5.jpg",
+    "backgroundImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11086710020%2Fbackground_1791622641464_3c2d799b.jpg",
+    "brandImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11086710020%2Fbrand_1791622641621_ccbbb7ca.jpg",
+    "pfpSprite": null,
+    "backgroundSprite": null,
+    "brandSprite": null,
+    "textGradient": false,
+    "textGradientStart": "#ff00cc",
+    "textGradientEnd": "#3333ff",
+    "glitchText": true,
+    "borderGradient": true,
+    "borderGradientEnd": "#ffffff"
   }
 ]
