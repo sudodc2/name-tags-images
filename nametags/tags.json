@@ -1838,10 +1838,10 @@
     "userId": "11086710020",
     "displayName": "13",
     "username": "theyluv_lawmadeblood",
-    "textColor": "#ffffff",
+    "textColor": "#000000",
     "font": "GothamBold",
     "tagColor": "#000000",
-    "outlineColor": "#ff0000",
+    "outlineColor": "#000000",
     "textOutlineColor": "#000000",
     "tagWidth": 320,
     "pfpImage": "https://ac-nametag-cfg-7k3m.pages.dev/api/images?path=nametags%2F11086710020%2Fpfp_1791622641188_009a20d5.jpg",
@@ -1855,6 +1855,6 @@
     "textGradientEnd": "#3333ff",
     "glitchText": true,
     "borderGradient": true,
-    "borderGradientEnd": "#ffffff"
+    "borderGradientEnd": "#666060"
   }
 ]
