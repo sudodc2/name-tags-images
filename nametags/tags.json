@@ -794,7 +794,7 @@
   },
   {
     "userId": "8431132513",
-    "displayName": "Crisp",
+    "displayName": "Crisp ‎",
     "username": "@16478uaopsdfim",
     "textColor": "#ffffff",
     "font": "GothamBold",
@@ -831,7 +831,10 @@
       "rows": 7,
       "fps": 29.878048780487806,
       "duration": 1.64
-    }
+    },
+    "textOutlineColor": "#000000",
+    "borderGradient": true,
+    "borderGradientEnd": "#ffffff"
   },
   {
     "userId": "4438596034",
